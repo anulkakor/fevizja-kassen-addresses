@@ -1,0 +1,524 @@
+{
+  "auditDate": "2026-11-17",
+  "batch": "remaining_official_sources_batch_3",
+  "reviewedPartialInsurers": 40,
+  "verifiedCategoryCount": 46,
+  "changes": [
+    {
+      "insurerId": "bkk-exklusiv",
+      "insurerName": "BKK exklusiv",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK exklusiv, 31273 Lehrte",
+      "sourceUrl": "https://bkkexklusiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza adres jako Zentrale Postadresse i nakazuje używać go wyłącznie do Briefsendungen; wpływająca poczta jest digitalizowana i kierowana do właściwego odbiorcy. Nie używać adresów odwiedzin w Lehrte/Bremen. Dla Widerspruch sprawdzić dodatkowo pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-exklusiv",
+      "insurerName": "BKK exklusiv",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK exklusiv, 31273 Lehrte",
+      "sourceUrl": "https://bkkexklusiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza adres jako Zentrale Postadresse i nakazuje używać go wyłącznie do Briefsendungen; wpływająca poczta jest digitalizowana i kierowana do właściwego odbiorcy. Nie używać adresów odwiedzin w Lehrte/Bremen. Dla Widerspruch sprawdzić dodatkowo pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-exklusiv",
+      "insurerName": "BKK exklusiv",
+      "category": "widerspruch",
+      "status": "verified",
+      "address": "BKK exklusiv, 31273 Lehrte",
+      "sourceUrl": "https://bkkexklusiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza adres jako Zentrale Postadresse i nakazuje używać go wyłącznie do Briefsendungen; wpływająca poczta jest digitalizowana i kierowana do właściwego odbiorcy. Nie używać adresów odwiedzin w Lehrte/Bremen. Dla Widerspruch sprawdzić dodatkowo pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-exklusiv",
+      "insurerName": "BKK exklusiv",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK exklusiv, 31273 Lehrte",
+      "sourceUrl": "https://bkkexklusiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza adres jako Zentrale Postadresse i nakazuje używać go wyłącznie do Briefsendungen; wpływająca poczta jest digitalizowana i kierowana do właściwego odbiorcy. Nie używać adresów odwiedzin w Lehrte/Bremen. Dla Widerspruch sprawdzić dodatkowo pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-exklusiv",
+      "insurerName": "BKK exklusiv",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK exklusiv, 31273 Lehrte",
+      "sourceUrl": "https://bkkexklusiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona nakazuje kierować całą Briefpost na Zentrale Postadresse 31273 Lehrte; wpływająca poczta jest digitalizowana i kierowana do właściwego odbiorcy. Nie opublikowano odrębnego adresu działu składek."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "sourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona rozróżnia Hausanschrift od Postanschrift i podaje Postfach 1160, 58206 Schwerte. Adres jest potwierdzony jako pocztowy; w sprawie Widerspruch pierwszeństwo ma indywidualne Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "sourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona rozróżnia Hausanschrift od Postanschrift i podaje Postfach 1160, 58206 Schwerte. Adres jest potwierdzony jako pocztowy; w sprawie Widerspruch pierwszeństwo ma indywidualne Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "sourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona rozróżnia Hausanschrift od Postanschrift i podaje Postfach 1160, 58206 Schwerte. Adres jest potwierdzony jako pocztowy; w sprawie Widerspruch pierwszeństwo ma indywidualne Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "sourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona rozróżnia Hausanschrift od Postanschrift i podaje Postfach 1160, 58206 Schwerte. Adres jest potwierdzony jako pocztowy; w sprawie Widerspruch pierwszeństwo ma indywidualne Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "sourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona rozróżnia Hausanschrift od Postanschrift i podaje Postfach 1160, 58206 Schwerte. Adres jest potwierdzony jako pocztowy; w sprawie Widerspruch pierwszeństwo ma indywidualne Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "sourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona w sekcji Postweg nakazuje wysyłać wszystkie listy na ogólny adres pocztowy: BMW BKK, Postfach 15 33, 84126 Dingolfing. Dla formalnego Widerspruch należy dodatkowo sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "sourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona w sekcji Postweg nakazuje wysyłać wszystkie listy na ogólny adres pocztowy: BMW BKK, Postfach 15 33, 84126 Dingolfing. Dla formalnego Widerspruch należy dodatkowo sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "sourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona w sekcji Postweg nakazuje wysyłać wszystkie listy na ogólny adres pocztowy: BMW BKK, Postfach 15 33, 84126 Dingolfing. Dla formalnego Widerspruch należy dodatkowo sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "sourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona w sekcji Postweg nakazuje wysyłać wszystkie listy na ogólny adres pocztowy: BMW BKK, Postfach 15 33, 84126 Dingolfing. Dla formalnego Widerspruch należy dodatkowo sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "sourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona w sekcji Postweg nakazuje wysyłać wszystkie listy na ogólny adres pocztowy: BMW BKK, Postfach 15 33, 84126 Dingolfing. Dla formalnego Widerspruch należy dodatkowo sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "sourceUrl": "https://www.debeka-bkk.de/faq/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalne FAQ rozróżnia Hausanschrift od Postanschrift i wprost poleca wysyłać dokumenty na Debeka Betriebskrankenkasse, 56048 Koblenz. Dla formalnego Widerspruch należy sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "sourceUrl": "https://www.debeka-bkk.de/faq/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalne FAQ rozróżnia Hausanschrift od Postanschrift i wprost poleca wysyłać dokumenty na Debeka Betriebskrankenkasse, 56048 Koblenz. Dla formalnego Widerspruch należy sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "sourceUrl": "https://www.debeka-bkk.de/faq/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalne FAQ rozróżnia Hausanschrift od Postanschrift i wprost poleca wysyłać dokumenty na Debeka Betriebskrankenkasse, 56048 Koblenz. Dla formalnego Widerspruch należy sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "sourceUrl": "https://www.debeka-bkk.de/faq/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalne FAQ rozróżnia Hausanschrift od Postanschrift i wprost poleca wysyłać dokumenty na Debeka Betriebskrankenkasse, 56048 Koblenz. Dla formalnego Widerspruch należy sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "sourceUrl": "https://www.debeka-bkk.de/faq/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalne FAQ rozróżnia Hausanschrift od Postanschrift i wprost poleca wysyłać dokumenty na Debeka Betriebskrankenkasse, 56048 Koblenz. Dla formalnego Widerspruch należy sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Salzgitter, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-salzgitter.de/geschaeftsstellen",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona „Geschäftsstellen” podaje osobno Postanschrift: BKK Salzgitter, 30645 Hannover. Nie używać adresów lokalnych Geschäftsstelle do korespondencji. Dla formalnego Widerspruch sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Salzgitter, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-salzgitter.de/geschaeftsstellen",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona „Geschäftsstellen” podaje osobno Postanschrift: BKK Salzgitter, 30645 Hannover. Nie używać adresów lokalnych Geschäftsstelle do korespondencji. Dla formalnego Widerspruch sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Salzgitter, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-salzgitter.de/geschaeftsstellen",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona „Geschäftsstellen” podaje osobno Postanschrift: BKK Salzgitter, 30645 Hannover. Nie używać adresów lokalnych Geschäftsstelle do korespondencji. Dla formalnego Widerspruch sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "BKK Salzgitter, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-salzgitter.de/geschaeftsstellen",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona „Geschäftsstellen” podaje osobno Postanschrift: BKK Salzgitter, 30645 Hannover. Nie używać adresów lokalnych Geschäftsstelle do korespondencji. Dla formalnego Widerspruch sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Salzgitter, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-salzgitter.de/geschaeftsstellen",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona „Geschäftsstellen” podaje osobno Postanschrift: BKK Salzgitter, 30645 Hannover. Nie używać adresów lokalnych Geschäftsstelle do korespondencji. Dla formalnego Widerspruch sprawdzić pouczenie w Bescheid."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK WERRA-MEISSNER",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "sourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa zawiera osobną sekcję Postanschrift i polecenie „Bitte senden Sie uns Ihre Post an diese Anschrift”: Sudetenlandstraße 2a, 37269 Eschwege. Dla formalnego Widerspruch pierwszeństwo ma pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK WERRA-MEISSNER",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "sourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa zawiera osobną sekcję Postanschrift i polecenie „Bitte senden Sie uns Ihre Post an diese Anschrift”: Sudetenlandstraße 2a, 37269 Eschwege. Dla formalnego Widerspruch pierwszeństwo ma pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK WERRA-MEISSNER",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "sourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa zawiera osobną sekcję Postanschrift i polecenie „Bitte senden Sie uns Ihre Post an diese Anschrift”: Sudetenlandstraße 2a, 37269 Eschwege. Dla formalnego Widerspruch pierwszeństwo ma pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK WERRA-MEISSNER",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "sourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa zawiera osobną sekcję Postanschrift i polecenie „Bitte senden Sie uns Ihre Post an diese Anschrift”: Sudetenlandstraße 2a, 37269 Eschwege. Dla formalnego Widerspruch pierwszeństwo ma pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK WERRA-MEISSNER",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "sourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa zawiera osobną sekcję Postanschrift i polecenie „Bitte senden Sie uns Ihre Post an diese Anschrift”: Sudetenlandstraße 2a, 37269 Eschwege. Dla formalnego Widerspruch pierwszeństwo ma pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "sourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy regionalnych punktów są osobno opisane jako Besuchs-/Kontaktadressen. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "sourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy regionalnych punktów są osobno opisane jako Besuchs-/Kontaktadressen. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "sourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy regionalnych punktów są osobno opisane jako Besuchs-/Kontaktadressen. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "sourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy regionalnych punktów są osobno opisane jako Besuchs-/Kontaktadressen. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "sourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy regionalnych punktów są osobno opisane jako Besuchs-/Kontaktadressen. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "bkk-schwarzwald-baar-heuberg",
+      "insurerName": "BKK Schwarzwald-Baar-Heuberg",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Schwarzwald-Baar-Heuberg, Löhrstraße 45, 78647 Trossingen",
+      "sourceUrl": "https://bkk-sbh.de/wp-content/uploads/2025/12/SBHB10746-06160Magazin2025-4ds.pdf",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalny magazyn BKK SBH (wydanie 2025-4) informuje, że cała poczta ma być kierowana wyłącznie na Löhrstraße 45 w Trossingen, gdzie jest digitalizowana i przekazywana do właściwych pracowników. Kod pocztowy 78647 potwierdza oficjalna strona ochrony danych. Widerspruch pozostaje individual_required: stosować adres i formę z konkretnego Bescheid."
+    },
+    {
+      "insurerId": "bkk-schwarzwald-baar-heuberg",
+      "insurerName": "BKK Schwarzwald-Baar-Heuberg",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Schwarzwald-Baar-Heuberg, Löhrstraße 45, 78647 Trossingen",
+      "sourceUrl": "https://bkk-sbh.de/wp-content/uploads/2025/12/SBHB10746-06160Magazin2025-4ds.pdf",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalny magazyn BKK SBH (wydanie 2025-4) informuje, że cała poczta ma być kierowana wyłącznie na Löhrstraße 45 w Trossingen, gdzie jest digitalizowana i przekazywana do właściwych pracowników. Kod pocztowy 78647 potwierdza oficjalna strona ochrony danych. Widerspruch pozostaje individual_required: stosować adres i formę z konkretnego Bescheid."
+    },
+    {
+      "insurerId": "bkk-schwarzwald-baar-heuberg",
+      "insurerName": "BKK Schwarzwald-Baar-Heuberg",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Schwarzwald-Baar-Heuberg, Löhrstraße 45, 78647 Trossingen",
+      "sourceUrl": "https://bkk-sbh.de/wp-content/uploads/2025/12/SBHB10746-06160Magazin2025-4ds.pdf",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalny magazyn BKK SBH (wydanie 2025-4) informuje, że cała poczta ma być kierowana wyłącznie na Löhrstraße 45 w Trossingen, gdzie jest digitalizowana i przekazywana do właściwych pracowników. Kod pocztowy 78647 potwierdza oficjalna strona ochrony danych. Widerspruch pozostaje individual_required: stosować adres i formę z konkretnego Bescheid."
+    },
+    {
+      "insurerId": "bkk-schwarzwald-baar-heuberg",
+      "insurerName": "BKK Schwarzwald-Baar-Heuberg",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Schwarzwald-Baar-Heuberg, Löhrstraße 45, 78647 Trossingen",
+      "sourceUrl": "https://bkk-sbh.de/wp-content/uploads/2025/12/SBHB10746-06160Magazin2025-4ds.pdf",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalny magazyn BKK SBH (wydanie 2025-4) informuje, że cała poczta ma być kierowana wyłącznie na Löhrstraße 45 w Trossingen, gdzie jest digitalizowana i przekazywana do właściwych pracowników. Kod pocztowy 78647 potwierdza oficjalna strona ochrony danych. Widerspruch pozostaje individual_required: stosować adres i formę z konkretnego Bescheid."
+    },
+    {
+      "insurerId": "bkk-herkules",
+      "insurerName": "BKK Herkules",
+      "category": "general",
+      "status": "conditional",
+      "address": "BKK Herkules, Jordanstraße 6, 34117 Kassel",
+      "sourceUrl": "https://www.bkk-herkules.de/versicherung/studierende",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona dla studentów nakazuje wysłać dokumenty pocztą na ten adres. Potwierdzenie dotyczy dokumentów członkowskich/ogólnych, nie dowodzi uniwersalnej Postanschrift dla wszystkich spraw. Adres nie jest automatycznie używany do Kündigung, Widerspruch ani Pflegekasse."
+    },
+    {
+      "insurerId": "bkk-herkules",
+      "insurerName": "BKK Herkules",
+      "category": "contributions",
+      "status": "conditional",
+      "address": "BKK Herkules, Jordanstraße 6, 34117 Kassel",
+      "sourceUrl": "https://www.bkk-herkules.de/versicherung/selbststaendige",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona dla osób samozatrudnionych nakazuje wysłać pocztą kwestionariusz i dokumenty potrzebne do ustalenia składki na adres BKK Herkules, Jordanstraße 6, 34117 Kassel. Potwierdzenie dotyczy dokumentów Beitragsbemessung; nie stanowi uniwersalnej Postanschrift dla innych spraw działu składek."
+    },
+    {
+      "insurerId": "viactiv-krankenkasse",
+      "insurerName": "VIACTIV Krankenkasse",
+      "category": "general",
+      "status": "official_general",
+      "address": "Zentraler Posteingang, 44775 Bochum",
+      "sourceUrl": "https://www.viactiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa podaje Postadresse „Zentraler Posteingang, 44775 Bochum” i wyraźnie ogranicza ją do listów; paczki mają inny adres. Dla spraw składkowych nie opublikowano osobnego adresu. Widerspruch ma osobną instrukcję i należy stosować jej adres."
+    },
+    {
+      "insurerId": "viactiv-krankenkasse",
+      "insurerName": "VIACTIV Krankenkasse",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Zentraler Posteingang, 44775 Bochum",
+      "sourceUrl": "https://www.viactiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona kontaktowa podaje Postadresse „Zentraler Posteingang, 44775 Bochum” i wyraźnie ogranicza ją do listów; paczki mają inny adres. Dla spraw składkowych nie opublikowano osobnego adresu. Widerspruch ma osobną instrukcję i należy stosować jej adres."
+    },
+    {
+      "insurerId": "viactiv-krankenkasse",
+      "insurerName": "VIACTIV Krankenkasse",
+      "category": "widerspruch",
+      "status": "verified",
+      "address": "Zentraler Posteingang, 44775 Bochum",
+      "sourceUrl": "https://www.viactiv.de/faq/wie-und-wohin-uebermittle-ich-meinen-widerspruch",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna instrukcja VIACTIV dotycząca Widerspruch została ponownie sprawdzona; kategoria pozostaje ograniczona do procedury wskazanej na stronie. Adres ogólny dla listów: Zentraler Posteingang, 44775 Bochum; nie używać adresu paczek."
+    },
+    {
+      "insurerId": "dak-gesundheit",
+      "insurerName": "DAK-Gesundheit",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "DAK-Gesundheit Zentrale, Nagelsweg 27–31, 20097 Hamburg",
+      "sourceUrl": "https://www.dak.de/dak/unternehmen/impressum_12290",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualne oficjalne Impressum oznacza Nagelsweg 27–31, 20097 Hamburg jako Postanschrift i mówi wprost, że Briefpost należy wysyłać na ten adres. Starsza broszura opisuje regionalne Postzentren, dlatego przed zastosowaniem do specjalnej procedury należy sprawdzić nowsze pouczenie/dokument. Widerspruch pozostaje conditional."
+    },
+    {
+      "insurerId": "continentale-betriebskrankenkasse",
+      "insurerName": "Continentale Betriebskrankenkasse",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Continentale Betriebskrankenkasse, Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.continentale-bkk.de/impressum",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualne oficjalne Impressum oznacza Zentraler Posteingang, 30645 Hannover jako Postanschrift; adres siedziby w Hamburgu jest osobny. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "continentale-betriebskrankenkasse",
+      "insurerName": "Continentale Betriebskrankenkasse",
+      "category": "widerspruch",
+      "status": "conditional",
+      "address": "Continentale Betriebskrankenkasse, Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.continentale-bkk.de/impressum",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualne oficjalne Impressum oznacza Zentraler Posteingang, 30645 Hannover jako Postanschrift; adres siedziby w Hamburgu jest osobny. Dla formalnego Widerspruch sprawdzić pouczenie z Bescheid."
+    },
+    {
+      "insurerId": "techniker-krankenkasse",
+      "insurerName": "Techniker Krankenkasse",
+      "category": "widerspruch",
+      "status": "verified",
+      "address": "Techniker Krankenkasse, 20901 Hamburg",
+      "sourceUrl": "https://www.tk.de/techniker/versicherung/tk-leistungen/weitere-leistungen/widersprueche-gegen-tk-entscheidungen/widerspruch-erheben-2098502",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna instrukcja TK dla Widerspruch podaje adres pocztowy Techniker Krankenkasse, 20901 Hamburg. Adres jest potwierdzony dla tej procedury; nie zastępować go adresem 20910 Hamburg używanym w innych sprawach."
+    }
+  ],
+  "notChangedRationale": [
+    {
+      "insurer": "AOK regional funds (10 records)",
+      "reason": "Official AOK pages confirm the PLZ-based lookup process and distinguish postal addresses from branches, but the actual Postanschrift cannot be resolved without the insured person's postcode; no concrete address/date was fabricated."
+    },
+    {
+      "insurer": "BKK Diakonie; BKK B. Braun Aesculap; BKK EUREGIO; BKK Akzo Nobel Bayern; Merck BKK; Krones BKK and other Impressum-only sources",
+      "reason": "Only an office, registered seat, contact or Impressum address was found; no explicit postal-mail designation or instruction."
+    },
+    {
+      "insurer": "BKK Faber-Castell & Partner",
+      "reason": "Official pages list multiple branch Postfächer/addresses but do not establish one central mailing route for each member; routing remains unresolved."
+    },
+    {
+      "insurer": "BKK Freudenberg",
+      "reason": "Two official Postanschriften remain; no recipient-routing rule for choosing between them."
+    },
+    {
+      "insurer": "BKK Herkules",
+      "reason": "Only category-specific postal instructions were verified for general member documents and contribution-assessment documents. They remain conditional; no universal postal address inferred."
+    },
+    {
+      "insurer": "BKK Schwarzwald-Baar-Heuberg – Widerspruch",
+      "reason": "General postal entry point verified, but formal Widerspruch remains individual_required; use the specific notice in the Bescheid."
+    },
+    {
+      "insurer": "TK – contributions",
+      "reason": "20901 Hamburg is verified only for specific payment/SEPA routes; not a universal address for all contribution correspondence."
+    },
+    {
+      "insurer": "Pronova BKK",
+      "reason": "The source describes PLZ-dependent routing; no category-specific address resolved without the relevant member postcode."
+    }
+  ],
+  "newlyDatedCategoryCount": 46,
+  "previouslyDatedButRecheckedCategoryCount": 2
+}

@@ -1,0 +1,660 @@
+{
+  "auditDate": "2026-11-18",
+  "batch": "initial-2026-11-18",
+  "recordsReviewed": 72,
+  "confirmedPostanschriftCount": 33,
+  "conditionalPlzLookupCount": 11,
+  "manualCheckCount": 3,
+  "officialLinkOnlyCount": 17,
+  "records": [
+    {
+      "insurerId": "betriebskrankenkasse-technoform",
+      "insurerName": "Betriebskrankenkasse Technoform",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://technoform.bkk-achteaufdich.de/impressum/",
+      "sourceVerifiedAt": "",
+      "evidence": "Impressum podaje siedzibę w Göttingen. Znaleziony adres Beleglesezentrum 30645 Hannover dotyczy konkretnej procedury usuwania danych, więc nie wolno go uogólniać na zwykłą korespondencję."
+    },
+    {
+      "insurerId": "bkk-akzo-nobel-bayern",
+      "insurerName": "BKK Akzo Nobel Bayern",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-akzo.de/ueber-uns/impressum",
+      "sourceVerifiedAt": "",
+      "evidence": "Strona nazywa Glanzstoffstraße 1, 63906 Erlenbach am Main Kassensitz, nie potwierdza jednoznacznie ogólnej Postanschrift."
+    },
+    {
+      "insurerId": "bkk-b-braun-aesculap",
+      "insurerName": "BKK B. Braun Aesculap",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-bba.de/impressum",
+      "sourceVerifiedAt": "",
+      "evidence": "Impressum podaje Anschrift Grüne Straße 1, 34212 Melsungen; brak wyraźnego oznaczenia jako Postanschrift."
+    },
+    {
+      "insurerId": "bkk-diakonie",
+      "insurerName": "BKK Diakonie",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-diakonie.de/impressum/",
+      "sourceVerifiedAt": "",
+      "evidence": "Impressum podaje Königsweg 8, 33617 Bielefeld; nie potwierdza, że to adres korespondencyjny."
+    },
+    {
+      "insurerId": "bkk-euregio",
+      "insurerName": "BKK EUREGIO",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-euregio.de/kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Kontakt i Impressum podają Boos-Fremery-Str. 66, 52525 Heinsberg, ale nie oznaczają tego adresu jako Postanschrift."
+    },
+    {
+      "insurerId": "bkk-faber-castell-partner",
+      "insurerName": "BKK Faber-Castell & Partner",
+      "auditResult": "manual_check",
+      "candidateOrConfirmedAddress": "Postfach 1265, 94202 Regen",
+      "officialSourceUrl": "https://www.bkk-faber-castell.de/ueber-uns/geschaeftsstellen.html",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona podaje Postfach przy Hauptverwaltung Regen, ale nie opisuje go wprost jako uniwersalnej Postanschrift. Nie podstawiać automatycznie przed doprecyzowaniem."
+    },
+    {
+      "insurerId": "bkk-firmus",
+      "insurerName": "BKK firmus",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-firmus.de/impressum",
+      "sourceVerifiedAt": "",
+      "evidence": "Impressum podaje Gottlieb-Daimler-Str. 11, 28237 Bremen i Servicezentrum Osnabrück; nie wskazuje jednoznacznie centralnej Postanschrift."
+    },
+    {
+      "insurerId": "bkk-freudenberg",
+      "insurerName": "BKK Freudenberg",
+      "auditResult": "manual_check",
+      "candidateOrConfirmedAddress": "Höhnerweg 2–4, 69465 Weinheim; Freudenbergstr. 1, 79395 Neuenburg",
+      "officialSourceUrl": "https://www.bkk-freudenberg.de/kontakt",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona pokazuje dwie pozycje nazwane Postanschrift. Trzeba ustalić, czy obie przyjmują zwykłą korespondencję i kiedy używać której."
+    },
+    {
+      "insurerId": "bkk-herkules",
+      "insurerName": "BKK Herkules",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-herkules.de/ueber-uns/kontakt",
+      "sourceVerifiedAt": "",
+      "evidence": "Strona podaje adres Geschäftsstelle Jordanstraße 6, 34117 Kassel i zachęca do wizyt osobistych; brak potwierdzenia adresu pocztowego."
+    },
+    {
+      "insurerId": "bkk-linde",
+      "insurerName": "BKK Linde",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://bkk-linde.de/kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Kontakt/Impressum podają Hauptgeschäftsstelle Konrad-Adenauer-Ring 33, 65187 Wiesbaden, bez oznaczenia Postanschrift."
+    },
+    {
+      "insurerId": "bkk-mahle",
+      "insurerName": "BKK MAHLE",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://bkk-mahle.de/servicestellen",
+      "sourceVerifiedAt": "",
+      "evidence": "Strona podaje Hauptverwaltung Stuttgart i inne punkty serwisowe; brak potwierdzenia ogólnej Postanschrift."
+    },
+    {
+      "insurerId": "bkk-rieker-ricosta-weisser",
+      "insurerName": "BKK Rieker.RICOSTA.Weisser",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-rrw.de/kontakt",
+      "sourceVerifiedAt": "",
+      "evidence": "Strona podaje lokalizacje w Tuttlingen i St. Georgen, nie oznacza żadnej jako Postanschrift."
+    },
+    {
+      "insurerId": "bkk-salzgitter",
+      "insurerName": "BKK Salzgitter",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK Salzgitter, 30645 Hannover",
+      "officialSourceUrl": "https://www.bkk-salzgitter.de/online-kundencenter/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona online Kundencenter jednoznacznie podaje Postanschrift: 30645 Hannover."
+    },
+    {
+      "insurerId": "bkk-schwarzwald-baar-heuberg",
+      "insurerName": "BKK Schwarzwald-Baar-Heuberg",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://bkk-sbh.de/wp-content/uploads/2025/12/SBHB10746-06160Magazin2025-4ds.pdf",
+      "sourceVerifiedAt": "",
+      "evidence": "Odnaleziony dokument z 2025 r. nie daje wystarczającego potwierdzenia aktualnej ogólnej Postanschrift; pozostawić link do oficjalnej kasy."
+    },
+    {
+      "insurerId": "bkk-vdn",
+      "insurerName": "BKK VDN",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK VDN, Postfach 1160, 58206 Schwerte",
+      "officialSourceUrl": "https://www.bkk-vdn.de/kontakt/anschrift-und-anfahrt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona wyraźnie rozdziela Hausanschrift od Postanschrift; potwierdzone Postfach 1160, 58206 Schwerte."
+    },
+    {
+      "insurerId": "bkk-verbundplus",
+      "insurerName": "BKK VerbundPlus",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK VerbundPlus, Zeppelinring 13, 88400 Biberach",
+      "officialSourceUrl": "https://www.bkk-verbundplus.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona wyraźnie oznacza Zeppelinring 13, 88400 Biberach jako Zentrale Postanschrift; adresy oddziałów są odrębne."
+    },
+    {
+      "insurerId": "bkk-werra-meissner",
+      "insurerName": "BKK Werra-Meissner",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK Werra-Meissner, Sudetenlandstraße 2a, 37269 Eschwege",
+      "officialSourceUrl": "https://www.bkk-werra-meissner.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona zawiera nagłówek Postanschrift i polecenie wysyłania poczty na ten adres."
+    },
+    {
+      "insurerId": "bkk-durkoppadler",
+      "insurerName": "BKK_DürkoppAdler",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://bkk-da.de/kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Kontakt/Impressum podają Stieghorster Str. 66, 33605 Bielefeld, ale strona opisuje lokalizację i odwiedziny; brak jednoznacznego Postanschrift."
+    },
+    {
+      "insurerId": "bosch-bkk",
+      "insurerName": "Bosch BKK",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bosch-bkk.de/service/kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona opisuje kanały kontaktu, oddziały i portal; w wynikach nie potwierdzono ogólnego adresu pocztowego."
+    },
+    {
+      "insurerId": "continentale-betriebskrankenkasse",
+      "insurerName": "Continentale Betriebskrankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Continentale Betriebskrankenkasse, Zentraler Posteingang, 30645 Hannover",
+      "officialSourceUrl": "https://www.continentale-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona kontaktowa i Impressum wskazują Zentraler Posteingang, 30645 Hannover; siedziba w Hamburgu jest innym adresem."
+    },
+    {
+      "insurerId": "aok-die-gesundheitskasse-fur-niedersachsen",
+      "insurerName": "AOK - Die Gesundheitskasse für Niedersachsen",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-die-gesundheitskasse-in-hessen",
+      "insurerName": "AOK - Die Gesundheitskasse in Hessen",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-baden-wurttemberg",
+      "insurerName": "AOK Baden-Württemberg",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-bayern-die-gesundheitskasse",
+      "insurerName": "AOK Bayern - Die Gesundheitskasse",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-nordost-die-gesundheitskasse",
+      "insurerName": "AOK Nordost - Die Gesundheitskasse",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-plus-die-gesundheitskasse-fur-sachsen-und-thuringen",
+      "insurerName": "AOK PLUS - Die Gesundheitskasse für Sachsen und Thüringen",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-sachsen-anhalt-die-gesundheitskasse",
+      "insurerName": "AOK Sachsen-Anhalt - Die Gesundheitskasse",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-bremen-bremerhaven",
+      "insurerName": "AOK Bremen / Bremerhaven",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-nordwest-die-gesundheitskasse",
+      "insurerName": "AOK NordWest - Die Gesundheitskasse",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-rheinland-hamburg-die-gesundheitskasse",
+      "insurerName": "AOK Rheinland/Hamburg - Die Gesundheitskasse",
+      "auditResult": "conditional_plz_lookup",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona AOK potwierdza, że właściwa regionalna Postanschrift jest ustalana po wpisaniu PLZ. Adresu nie można bezpiecznie uzupełnić bez PLZ użytkownika."
+    },
+    {
+      "insurerId": "aok-rheinland-pfalz-saarland-die-gesundheitskasse",
+      "insurerName": "AOK Rheinland-Pfalz/Saarland-Die Gesundheitskasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "AOK Rheinland-Pfalz/Saarland – Die Gesundheitskasse, 56040 Koblenz",
+      "officialSourceUrl": "https://www.aok.de/pk/kontakt/postanschrift-client-rps/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona wyraźnie podaje Postanschrift 56040 Koblenz; strona aktualizowana 05.11.2026. Widerspruch nadal wymaga sprawdzenia pouczenia z Bescheid."
+    },
+    {
+      "insurerId": "big-direkt-gesund",
+      "insurerName": "BIG direkt gesund",
+      "auditResult": "verified_widerspruch_only",
+      "candidateOrConfirmedAddress": "BIG direkt gesund, Hörder-Bach-Allee 1-3, 44263 Dortmund",
+      "officialSourceUrl": "https://www.big-direkt.de/de/versicherung/rund-um-ihre-versicherung/das-widerspruchsverfahren-einfach-erklaert",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna instrukcja wskazuje adres wyłącznie dla Widerspruch; ogólna Postanschrift pozostaje niepotwierdzona."
+    },
+    {
+      "insurerId": "bmw-bkk",
+      "insurerName": "BMW BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BMW BKK, Postfach 15 33, 84126 Dingolfing",
+      "officialSourceUrl": "https://www.bmwbkk.de/content/bmw/marketBMWBKK/bmwbkk_de/de/topic/meine-bmw-bkk/allgemeiner-kontakt.html",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona nakazuje wysyłać wszystkie listy na ogólny adres pocztowy."
+    },
+    {
+      "insurerId": "dak-gesundheit",
+      "insurerName": "DAK-Gesundheit",
+      "auditResult": "conditional_bundesland_routing",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://caas.content.dak.de/caas/v1/media/155080/data/acef68affffa3cbfe84d751ddf30cddd/fit-1-2026-einzel.pdf",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Publikacja DAK 2026 podaje trzy adresy Postzentrum zależne od Bundesland; aktualne Impressum dodatkowo podaje centralny adres dla Briefpost. Nie podstawiać automatycznie bez wyboru typu pisma i Bundesland."
+    },
+    {
+      "insurerId": "debeka-bkk",
+      "insurerName": "Debeka BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Debeka Betriebskrankenkasse, 56048 Koblenz",
+      "officialSourceUrl": "https://www.debeka-bkk.de/impressum/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne Impressum odróżnia Hausanschrift od Postanschrift; potwierdzono 56048 Koblenz."
+    },
+    {
+      "insurerId": "koenig-bauer-bkk",
+      "insurerName": "Koenig & Bauer BKK",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.koenig-bauer-bkk.de/persoenlich/kontakt.htm",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona pokazuje lokalizacje Würzburg i Radebeul, ale nie oznacza ich jako Postanschrift."
+    },
+    {
+      "insurerId": "krones-betriebskrankenkasse",
+      "insurerName": "Krones Betriebskrankenkasse",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.krones-bkk.de/email-kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona podaje główną siedzibę i oddział; brak jednoznacznej Postanschrift."
+    },
+    {
+      "insurerId": "merck-bkk",
+      "insurerName": "Merck BKK",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.merck-bkk.de/kontakt/ihr-kontakt-zur-merck-bkk/ansprechpartner/",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona podaje kontakt i adres siedziby Frankfurter Str. 129, 64293 Darmstadt; nie potwierdza Postanschrift."
+    },
+    {
+      "insurerId": "pronova-bkk",
+      "insurerName": "Pronova BKK",
+      "auditResult": "conditional_plz_routing",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.pronovabkk.de/fuer-firmen/media/pdfs-sozialversicherung/formulare/pronova-bkk-zahlen-daten-fakten-2026.pdf",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna dokumentacja podaje 67058 Ludwigshafen oraz 67082 Ludwigshafen dla PLZ 4/5. Wymaga PLZ użytkownika."
+    },
+    {
+      "insurerId": "techniker-krankenkasse",
+      "insurerName": "Techniker Krankenkasse",
+      "auditResult": "procedure_specific_addresses",
+      "candidateOrConfirmedAddress": "20910 Hamburg (general); 20901 Hamburg (Widerspruch and specific SEPA forms)",
+      "officialSourceUrl": "https://www.tk.de/techniker/versicherung/krankenkasse-anliegen-online-erledigen/meine-tk/meine-daten/neue-e-mail-adresse-aendern-2012320",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne strony rozróżniają adres ogólny 20910 i adres 20901 dla Widerspruch oraz wybranych formularzy składkowych."
+    },
+    {
+      "insurerId": "viactiv-krankenkasse",
+      "insurerName": "VIACTIV Krankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "VIACTIV Krankenkasse, Zentraler Posteingang, 44775 Bochum",
+      "officialSourceUrl": "https://www.viactiv.de/kontakt",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona potwierdza adres dla listów; paczki i przesyłki kierować na Suttner-Nobel-Allee 3-5, 44803 Bochum."
+    },
+    {
+      "insurerId": "audi-bkk",
+      "insurerName": "Audi BKK",
+      "auditResult": "widerspruch_individual_required",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.audibkk.de/ueber-uns/transparenzbericht-der-audi-bkk-im-jahr-2024/wann-ist-ein-widerspruch-moeglich-1",
+      "sourceVerifiedAt": "",
+      "evidence": "Bescheid Audi BKK ma wskazywać, czy i jak wnieść Widerspruch; strona nie publikuje jednego adresu dla tej procedury."
+    },
+    {
+      "insurerId": "bkk-gildemeister-seidensticker",
+      "insurerName": "BKK GILDEMEISTER SEIDENSTICKER",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK GILDEMEISTER SEIDENSTICKER, Postfach 140160, 33621 Bielefeld",
+      "officialSourceUrl": "https://www.bkkgs.de/ueber-uns/impressum",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne Impressum jawnie oznacza Postanschrift i odróżnia ją od siedziby."
+    },
+    {
+      "insurerId": "bkk-melitta-hmr",
+      "insurerName": "bkk melitta hmr",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "bkk melitta hmr, Postfach 1224, 32372 Minden",
+      "officialSourceUrl": "https://www.bkk-melitta-hmr.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona jawnie podaje Zentrale Postanschrift. Widerspruch kierowany do organu, który wydał akt; sprawdzić Bescheid."
+    },
+    {
+      "insurerId": "bkk-mkk-meine-krankenkasse",
+      "insurerName": "BKK mkk - meine krankenkasse",
+      "auditResult": "widerspruch_individual_required",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.meine-krankenkasse.de/mein-bereich/service/widerspruch-einlegen",
+      "sourceVerifiedAt": "",
+      "evidence": "Ogólna Postanschrift i adres Pflegekasse to 10857 Berlin; strona Widerspruch nie wskazuje odrębnego adresu, sprawdzić Bescheid."
+    },
+    {
+      "insurerId": "bkk-groz-beckert",
+      "insurerName": "BKK Groz-Beckert",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK Groz-Beckert, Postfach 10 00 27, 72421 Albstadt",
+      "officialSourceUrl": "https://www.bkk-gb.de/service/wichtige-daten/page",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona odróżnia Hausanschrift od Postanschrift."
+    },
+    {
+      "insurerId": "bkk-public",
+      "insurerName": "BKK Public",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK Public, 30645 Hannover",
+      "officialSourceUrl": "https://www.bkk-public.de/kontakt-1",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona kontaktowa podaje Postanschrift; Widerspruch page nie podaje oddzielnego adresu."
+    },
+    {
+      "insurerId": "bkk-scheufelen",
+      "insurerName": "BKK Scheufelen",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK Scheufelen, 73228 Kirchheim/Teck",
+      "officialSourceUrl": "https://www.bkk-scheufelen.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona jawnie oznacza Postanschrift i odróżnia ją od adresu oddziału."
+    },
+    {
+      "insurerId": "mercedes-benz-bkk",
+      "insurerName": "Mercedes-Benz BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Mercedes-Benz BKK, 28178 Bremen",
+      "officialSourceUrl": "https://www.mercedes-benz-bkk.com/kontakt-und-kundencenter/so-erreichen-sie-uns",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona wskazuje jednolitą Postanschrift dla wszystkich pism; osobna instrukcja potwierdza ją dla Widerspruch."
+    },
+    {
+      "insurerId": "mhplus-betriebskrankenkasse",
+      "insurerName": "mhplus Betriebskrankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "mhplus Betriebskrankenkasse, 71632 Ludwigsburg",
+      "officialSourceUrl": "https://www.mhplus-krankenkasse.de/impressum",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne Impressum odróżnia Postanschrift od ulicznego adresu siedziby; Widerspruch bez osobnego adresu."
+    },
+    {
+      "insurerId": "r-v-betriebskrankenkasse",
+      "insurerName": "R+V Betriebskrankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "R+V Betriebskrankenkasse, 65215 Wiesbaden",
+      "officialSourceUrl": "https://www.ruv-bkk.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona każe wysyłać wszystkie pisma na tę Postanschrift; oficjalna strona Widerspruch podaje ten sam adres."
+    },
+    {
+      "insurerId": "wmf-bkk",
+      "insurerName": "WMF BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "WMF BKK, Zentraler Posteingang, 30645 Hannover",
+      "officialSourceUrl": "https://www.wmf-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona każe wysyłać Briefpost i dokumenty do centralnego Posteingang; Widerspruch warunkowy ze względu na Bescheid."
+    },
+    {
+      "insurerId": "bkk24",
+      "insurerName": "BKK24",
+      "auditResult": "manual_check_postal_code_conflict",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk24.de/kontakt-1",
+      "sourceVerifiedAt": "",
+      "evidence": "Oficjalna strona kontaktowa podaje 31683 Obernkirchen, ale oficjalny formularz dla pisemnych spraw podaje Postanschrift 31681 Obernkirchen. Nie automatyzować do czasu potwierdzenia."
+    },
+    {
+      "insurerId": "bkk-mtu",
+      "insurerName": "BKK MTU",
+      "auditResult": "official_link_only",
+      "candidateOrConfirmedAddress": "",
+      "officialSourceUrl": "https://www.bkk-mtu.de/kontakt/",
+      "sourceVerifiedAt": "",
+      "evidence": "Adres Hochstraße 40 jest adresem kontaktowym/odwiedzinowym; nie potwierdzono Postanschrift."
+    },
+    {
+      "insurerId": "barmer",
+      "insurerName": "BARMER",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Barmer, 42266 Wuppertal",
+      "officialSourceUrl": "https://www.barmer.de/persoenliche-beratung/zentrale-postanschriften-1003548",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona potwierdza centralny adres dla listów i dokumentów."
+    },
+    {
+      "insurerId": "bergische-krankenkasse",
+      "insurerName": "BERGISCHE KRANKENKASSE",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BERGISCHE KRANKENKASSE, 42715 Solingen",
+      "officialSourceUrl": "https://www.bergische-krankenkasse.de/impressum",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne Impressum wyraźnie odróżnia Postanschrift 42715 Solingen od siedziby 42719 Solingen."
+    },
+    {
+      "insurerId": "bertelsmann-bkk",
+      "insurerName": "Bertelsmann BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Bertelsmann BKK, Postfach 170, 33311 Gütersloh",
+      "officialSourceUrl": "https://www.bertelsmann-bkk.de/ueber-uns/impressum/widerspruch",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna instrukcja Widerspruch wskazuje ten Postfach, kontakt również powtarza adres Post."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-der-g-m-pfaff-ag",
+      "insurerName": "Betriebskrankenkasse der G.M. Pfaff AG",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK PFAFF, Postfach 11 20, 67601 Kaiserslautern",
+      "officialSourceUrl": "https://bkk-pfaff.de/wp-content/uploads/2026/01/BKK_PFAFF_SLM_Broschuere_2026.pdf",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna broszura w wydaniu styczeń 2026 oznacza Postweg Postfach 11 20; oddziela adres osobistych wizyt."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-ewe",
+      "insurerName": "Betriebskrankenkasse EWE",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK EWE, Postfach 5334, 26043 Oldenburg",
+      "officialSourceUrl": "https://www.bkk-ewe.de/ihre-bkk-ewe/kontakt",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona kontaktowa podaje oddzielny Postfach 5334 dla korespondencji pocztowej."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-miele",
+      "insurerName": "Betriebskrankenkasse Miele",
+      "auditResult": "verified_widerspruch_only",
+      "candidateOrConfirmedAddress": "BKK Miele, Carl-Miele-Str. 29, 33332 Gütersloh",
+      "officialSourceUrl": "https://www.miele-bkk.de/leistungen/widerspruch",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna instrukcja Widerspruch wprost podaje adres do wysyłki listem; nie potwierdza odrębnej Postanschrift dla wszystkich innych kategorii."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-mobil",
+      "insurerName": "Betriebskrankenkasse Mobil",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Mobil Krankenkasse, 20091 Hamburg",
+      "officialSourceUrl": "https://mobil-krankenkasse.de/kontakt.html",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona mówi, że dokumenty, wnioski i korespondencję ubezpieczeniową należy wysyłać na 20091 Hamburg; Widerspruch wymaga danych z Ausgangsbescheid."
+    },
+    {
+      "insurerId": "bkk-deutsche-bank-ag",
+      "insurerName": "BKK Deutsche Bank AG",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Betriebskrankenkasse der Deutschen Bank, Postfach, 40189 Düsseldorf",
+      "officialSourceUrl": "https://www.bkkdb.de/home",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Aktualna oficjalna strona pokazuje Postfach 40189 Düsseldorf; oficjalna broszura 2024 nazywa sekcję Postanschrift. Widerspruch bez osobnej instrukcji."
+    },
+    {
+      "insurerId": "bkk-evm",
+      "insurerName": "BKK evm",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK evm, Schützenstraße 80-82, 56068 Koblenz",
+      "officialSourceUrl": "https://www.bkk-evm.de/impressum.html",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne Impressum jawnie podaje Postanschrift; Widerspruch warunkowy."
+    },
+    {
+      "insurerId": "bkk-provita",
+      "insurerName": "BKK ProVita",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK ProVita, Münchner Weg 5, 85232 Bergkirchen",
+      "officialSourceUrl": "https://bkk-provita.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona oznacza Postanschrift; osobna instrukcja Widerspruch wskazuje ten sam adres."
+    },
+    {
+      "insurerId": "bkk-wirtschaft-und-finanzen",
+      "insurerName": "BKK WIRTSCHAFT UND FINANZEN",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "BKK WIRTSCHAFT & FINANZEN, Bahnhofstraße 19, 34212 Melsungen",
+      "officialSourceUrl": "https://www.bkk-wf.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona oznacza Postanschrift und Besucheradresse; Widerspruch ma ten sam adres."
+    },
+    {
+      "insurerId": "ey-betriebskrankenkasse",
+      "insurerName": "EY Betriebskrankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "EY BKK, Beleglesezentrum, 30645 Hannover",
+      "officialSourceUrl": "https://www.ey-bkk.de/ueber-uns/ihre-ey-bkk",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona podaje Postanschrift; nie mylić z Kassensitz Melsungen i Rechtssitz München."
+    },
+    {
+      "insurerId": "hek-hanseatische-krankenkasse",
+      "insurerName": "HEK - Hanseatische Krankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "HEK - Hanseatische Krankenkasse, 22039 Hamburg",
+      "officialSourceUrl": "https://www.hek.de/einfacher-service/faq/faq-allgemein/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalne FAQ mówi używać tego adresu niezależnie od Wohnort i Anliegen."
+    },
+    {
+      "insurerId": "karl-mayer-bkk",
+      "insurerName": "KARL MAYER Betriebskrankenkasse",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "KARL MAYER Betriebskrankenkasse, Postfach 11 20, 63166 Obertshausen",
+      "officialSourceUrl": "https://www.karlmayer-bkk.de/kontakt/servicezeiten/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona wyraźnie oddziela Postanschrift Postfach od adresu siedziby."
+    },
+    {
+      "insurerId": "siemens-betriebskrankenkasse-sbk",
+      "insurerName": "Siemens-Betriebskrankenkasse (SBK)",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "SBK, 80227 München",
+      "officialSourceUrl": "https://www.sbk.org/kontakt/",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona nazywa 80227 München centralną Postadresse i opisuje przekazywanie listów do właściwego doradcy."
+    },
+    {
+      "insurerId": "skd-bkk",
+      "insurerName": "SKD BKK",
+      "auditResult": "verified_widerspruch_only",
+      "candidateOrConfirmedAddress": "SKD BKK / SKD BKK Pflegekasse, Schultesstr. 19 A, 97421 Schweinfurt",
+      "officialSourceUrl": "https://www.skd-bkk.de/kunden/widerspruch-einlegen",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna instrukcja Widerspruch podaje adres pocztowy. Ogólna Postanschrift nie jest potwierdzona."
+    },
+    {
+      "insurerId": "sudzucker-bkk",
+      "insurerName": "Südzucker BKK",
+      "auditResult": "confirmed_postanschrift",
+      "candidateOrConfirmedAddress": "Südzucker BKK, Joseph-Meyer-Str. 13-15, 68167 Mannheim",
+      "officialSourceUrl": "https://www.xn--sdzucker-bkk-dlb.de/ueber-uns/kontakt",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona mówi wprost, że listy i faksy można wysyłać na ten adres; Widerspruch page nie wskazuje osobnego adresu."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-pricewaterhousecoopers",
+      "insurerName": "Betriebskrankenkasse PricewaterhouseCoopers",
+      "auditResult": "two_purpose_specific_addresses",
+      "candidateOrConfirmedAddress": "General: BKK PwC, Postfach 1226, 34202 Melsungen; Widerspruch: BKK PwC, Burgstraße 1-3, 34212 Melsungen",
+      "officialSourceUrl": "https://www.bkk-pwc.de/firmenkunden/anschrift-bank-werte-und-downloads",
+      "sourceVerifiedAt": "2026-11-18",
+      "evidence": "Oficjalna strona podaje Postfach dla zwykłej korespondencji; odrębna oficjalna instrukcja Widerspruch podaje adres uliczny. Nie łączyć tych adresów."
+    }
+  ],
+  "conditionalBundeslandRoutingCount": 1
+}

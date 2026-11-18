@@ -1,0 +1,23 @@
+{
+  "name": "fevizja-kassen-addresses",
+  "version": "0.2.66",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js && npm run validate:staging",
+    "check": "node scripts/check-syntax.mjs",
+    "validate:staging": "node test/staging-validation.mjs",
+    "dev": "wrangler dev",
+    "deploy:staging": "wrangler deploy --env staging",
+    "deploy:production": "wrangler deploy --env production",
+    "dry-run:staging": "wrangler deploy --dry-run --env staging --config wrangler.ci.toml",
+    "dry-run:production": "wrangler deploy --dry-run --env production --config wrangler.ci.toml",
+    "ci:wrangler-config": "node scripts/prepare-wrangler-ci.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "wrangler": "4.164.0"
+  }
+}

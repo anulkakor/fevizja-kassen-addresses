@@ -1,0 +1,145 @@
+{
+  "auditDate": "2026-11-17",
+  "batch": "remaining_official_sources_batch_2",
+  "verifiedCategoryCount": 10,
+  "changes": [
+    {
+      "insurerId": "audi-bkk",
+      "insurerName": "Audi BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Postfach 10 01 60, 85001 Ingolstadt",
+      "sourceUrl": "https://www.audibkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Ponownie otwarta oficjalna strona kontaktowa: sekcja Postadresse zaprasza do wysyłania Anliegen pocztą i podaje Zentrale Postanschrift Audi BKK, Postfach 10 01 60, 85001 Ingolstadt. FAQ potwierdza użycie adresu dla wniosków i dokumentów. Dla Widerspruch dodatkowa oficjalna instrukcja dopuszcza prosty list; jej stopka podaje ten sam Postfach. Nie opublikowano osobnego adresu Pflegekasse; używany jest centralny adres pocztowy."
+    },
+    {
+      "insurerId": "audi-bkk",
+      "insurerName": "Audi BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "Postfach 10 01 60, 85001 Ingolstadt",
+      "sourceUrl": "https://www.audibkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Ponownie otwarta oficjalna strona kontaktowa: sekcja Postadresse zaprasza do wysyłania Anliegen pocztą i podaje Zentrale Postanschrift Audi BKK, Postfach 10 01 60, 85001 Ingolstadt. FAQ potwierdza użycie adresu dla wniosków i dokumentów. Dla Widerspruch dodatkowa oficjalna instrukcja dopuszcza prosty list; jej stopka podaje ten sam Postfach. Nie opublikowano osobnego adresu Pflegekasse; używany jest centralny adres pocztowy."
+    },
+    {
+      "insurerId": "audi-bkk",
+      "insurerName": "Audi BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "Postfach 10 01 60, 85001 Ingolstadt",
+      "sourceUrl": "https://www.audibkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Ponownie otwarta oficjalna strona kontaktowa: sekcja Postadresse zaprasza do wysyłania Anliegen pocztą i podaje Zentrale Postanschrift Audi BKK, Postfach 10 01 60, 85001 Ingolstadt. FAQ potwierdza użycie adresu dla wniosków i dokumentów. Dla Widerspruch dodatkowa oficjalna instrukcja dopuszcza prosty list; jej stopka podaje ten sam Postfach. Nie opublikowano osobnego adresu Pflegekasse; używany jest centralny adres pocztowy."
+    },
+    {
+      "insurerId": "audi-bkk",
+      "insurerName": "Audi BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Postfach 10 01 60, 85001 Ingolstadt",
+      "sourceUrl": "https://www.audibkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Ponownie otwarta oficjalna strona kontaktowa: sekcja Postadresse zaprasza do wysyłania Anliegen pocztą i podaje Zentrale Postanschrift Audi BKK, Postfach 10 01 60, 85001 Ingolstadt. FAQ potwierdza użycie adresu dla wniosków i dokumentów. Dla Widerspruch dodatkowa oficjalna instrukcja dopuszcza prosty list; jej stopka podaje ten sam Postfach. Nie opublikowano osobnego adresu Pflegekasse; używany jest centralny adres pocztowy."
+    },
+    {
+      "insurerId": "big-direkt-gesund",
+      "insurerName": "BIG direkt gesund",
+      "category": "widerspruch",
+      "status": "verified",
+      "address": "BIG direkt gesund, Hörder-Bach-Allee 1–3, 44263 Dortmund",
+      "sourceUrl": "https://www.big-direkt.de/de/versicherung/rund-um-ihre-versicherung/das-widerspruchsverfahren-einfach-erklaert",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna instrukcja BIG wprost wskazuje adres do Widerspruch wysyłanego pocztą: BIG direkt gesund, Hörder-Bach-Allee 1-3, 44263 Dortmund. To potwierdzenie dotyczy wyłącznie Widerspruch; ogólna Postanschrift pozostaje nierozstrzygnięta z powodu różnych adresów w oficjalnych publikacjach."
+    },
+    {
+      "insurerId": "wmf-bkk",
+      "insurerName": "WMF BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.wmf-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualna oficjalna strona kontaktowa mówi, że Briefpost należy kierować do zentraler Posteingang, gdzie jest skanowana i przekazywana pracownikom BKK. Podaje: WMF BKK, Zentraler Posteingang, 30645 Hannover. Aktualna strona Feedback & Hinweise potwierdza możliwość wniesienia Widerspruch pisemnie. Nie opublikowano osobnego adresu Beitragsabteilung; ta kategoria pozostaje not_published."
+    },
+    {
+      "insurerId": "wmf-bkk",
+      "insurerName": "WMF BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "WMF BKK, Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.wmf-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualna oficjalna strona kontaktowa mówi, że Briefpost należy kierować do zentraler Posteingang, gdzie jest skanowana i przekazywana pracownikom BKK. Podaje: WMF BKK, Zentraler Posteingang, 30645 Hannover. Aktualna strona Feedback & Hinweise potwierdza możliwość wniesienia Widerspruch pisemnie. Nie opublikowano osobnego adresu Beitragsabteilung; ta kategoria pozostaje not_published."
+    },
+    {
+      "insurerId": "wmf-bkk",
+      "insurerName": "WMF BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "WMF BKK, Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.wmf-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualna oficjalna strona kontaktowa mówi, że Briefpost należy kierować do zentraler Posteingang, gdzie jest skanowana i przekazywana pracownikom BKK. Podaje: WMF BKK, Zentraler Posteingang, 30645 Hannover. Aktualna strona Feedback & Hinweise potwierdza możliwość wniesienia Widerspruch pisemnie. Nie opublikowano osobnego adresu Beitragsabteilung; ta kategoria pozostaje not_published."
+    },
+    {
+      "insurerId": "wmf-bkk",
+      "insurerName": "WMF BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "WMF BKK, Zentraler Posteingang, 30645 Hannover",
+      "sourceUrl": "https://www.wmf-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Aktualna oficjalna strona kontaktowa mówi, że Briefpost należy kierować do zentraler Posteingang, gdzie jest skanowana i przekazywana pracownikom BKK. Podaje: WMF BKK, Zentraler Posteingang, 30645 Hannover. Aktualna strona Feedback & Hinweise potwierdza możliwość wniesienia Widerspruch pisemnie. Nie opublikowano osobnego adresu Beitragsabteilung; ta kategoria pozostaje not_published."
+    },
+    {
+      "insurerId": "bkk-freudenberg",
+      "insurerName": "BKK Freudenberg",
+      "category": "general",
+      "status": "conditional",
+      "address": "BKK Freudenberg – Postanschrift Weinheim: Höhnerweg 2–4, 69465 Weinheim; Postanschrift Neuenburg: Freudenbergstraße 1, 79395 Neuenburg",
+      "sourceUrl": "https://www.bkk-freudenberg.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "evidence": "Oficjalna strona wyraźnie oznacza dwa adresy jako Postanschrift i mówi, że można wysyłać wiadomości pocztą: Weinheim, Höhnerweg 2–4, 69465 oraz Neuenburg, Freudenbergstr. 1, 79395. Nie wskazuje, który adres dotyczy konkretnego ubezpieczonego; status conditional pozostaje i nie wolno automatycznie wybierać jednego adresu."
+    }
+  ],
+  "notChangedRationale": [
+    {
+      "insurer": "BKK Diakonie",
+      "reason": "Official contact/imprint identifies an office address but does not explicitly establish a postal address."
+    },
+    {
+      "insurer": "BKK B. Braun Aesculap",
+      "reason": "Impressum identifies Anschrift/registered seat only; no explicit Postanschrift."
+    },
+    {
+      "insurer": "BKK EUREGIO",
+      "reason": "Contact page provides Anschrift but no explicit postal-mail instruction."
+    },
+    {
+      "insurer": "BKK Herkules",
+      "reason": "Address is labelled Geschäftsstelle; not proof of Postanschrift."
+    },
+    {
+      "insurer": "BKK Rieker.RICOSTA.Weisser",
+      "reason": "Impressum/locations establish registered office and sites only."
+    },
+    {
+      "insurer": "Merck BKK",
+      "reason": "Central Postanschrift found for the specific Bundesteilhabegesetz contact, not general member correspondence."
+    },
+    {
+      "insurer": "Bosch BKK",
+      "reason": "Available address belongs to the data protection officer; not a general mailing address."
+    },
+    {
+      "insurer": "WMF BKK contributions",
+      "reason": "No separate postal address for contribution correspondence published."
+    },
+    {
+      "insurer": "Audi BKK contributions",
+      "reason": "No separate postal address for contribution correspondence published."
+    }
+  ]
+}

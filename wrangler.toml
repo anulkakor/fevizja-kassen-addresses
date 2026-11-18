@@ -1,0 +1,115 @@
+name = "fevizja-kassen-addresses-dev"
+main = "src/index.js"
+compatibility_date = "2026-11-16"
+workers_dev = true
+
+[vars]
+DEPLOY_ENV = "development"
+LOCAL_DEV_ALLOW_MISSING_IP = "true"
+FRONTEND_ORIGINS = "http://localhost:5173"
+
+[[services]]
+binding = "KASSEN_API"
+service = "fevizja-kassen-api"
+
+[[kv_namespaces]]
+binding = "ADDRESS_KV"
+id = "a0124496ef684939bb15f4ca5f83c46f"
+
+[[kv_namespaces]]
+binding = "ADDRESS_HISTORY_KV"
+id = "e139b4e1a0cc4e3f99a986efcb602adb"
+
+[[durable_objects.bindings]]
+name = "UPDATE_COORDINATOR"
+class_name = "FeVizjaUpdateCoordinator"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["FeVizjaUpdateCoordinator"]
+
+# Configure an ADMIN_RATE_LIMITER binding in Cloudflare (Workers > Settings > Bindings).
+# The Worker deliberately fails closed for /api/admin/* and /api/history/* if it is absent.
+
+[env.staging]
+name = "fevizja-kassen-addresses-staging"
+workers_dev = true
+
+[env.staging.vars]
+DEPLOY_ENV = "staging"
+LOCAL_DEV_ALLOW_MISSING_IP = "false"
+FRONTEND_ORIGINS = "http://localhost:5173"
+
+[[env.staging.services]]
+binding = "KASSEN_API"
+service = "fevizja-kassen-api-staging"
+
+[[env.staging.kv_namespaces]]
+binding = "ADDRESS_KV"
+id = "be251a7095aa43e2a697354e38160529"
+
+[[env.staging.kv_namespaces]]
+binding = "ADDRESS_HISTORY_KV"
+id = "eaaab719dbcc47e6a9ac0fa6124df960"
+
+[env.production]
+name = "fevizja-kassen-addresses"
+workers_dev = false
+
+[[env.production.routes]]
+pattern = "api.fevizja.com"
+custom_domain = true
+
+[env.production.vars]
+DEPLOY_ENV = "production"
+LOCAL_DEV_ALLOW_MISSING_IP = "false"
+FRONTEND_ORIGINS = "https://app.fevizja.com"
+
+[[env.production.services]]
+binding = "KASSEN_API"
+service = "fevizja-kassen-api"
+
+[[env.production.kv_namespaces]]
+binding = "ADDRESS_KV"
+id = "c113ad6ecfa241d79328275721248f13"
+
+[[env.production.kv_namespaces]]
+binding = "ADDRESS_HISTORY_KV"
+id = "a1ba8c5c57474eebbb08975420ce1cbc"
+
+[[ratelimits]]
+name = "ADMIN_RATE_LIMITER"
+namespace_id = "25050"
+[ratelimits.simple]
+limit = 30
+period = 60
+
+[[env.staging.durable_objects.bindings]]
+name = "UPDATE_COORDINATOR"
+class_name = "FeVizjaUpdateCoordinator"
+
+[[env.staging.migrations]]
+tag = "v1"
+new_sqlite_classes = ["FeVizjaUpdateCoordinator"]
+
+[[env.staging.ratelimits]]
+name = "ADMIN_RATE_LIMITER"
+namespace_id = "25051"
+[env.staging.ratelimits.simple]
+limit = 30
+period = 60
+
+[[env.production.durable_objects.bindings]]
+name = "UPDATE_COORDINATOR"
+class_name = "FeVizjaUpdateCoordinator"
+
+[[env.production.migrations]]
+tag = "v1"
+new_sqlite_classes = ["FeVizjaUpdateCoordinator"]
+
+[[env.production.ratelimits]]
+name = "ADMIN_RATE_LIMITER"
+namespace_id = "25052"
+[env.production.ratelimits.simple]
+limit = 30
+period = 60

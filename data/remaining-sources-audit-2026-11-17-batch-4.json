@@ -1,0 +1,996 @@
+{
+  "version": "0.2.48",
+  "batch": "remaining_official_sources_batch_4",
+  "date": "2026-11-17",
+  "reviewedInsurers": 24,
+  "categoriesWithNewSourceVerification": 96,
+  "totalSourceVerifiedAt": 206,
+  "effectiveMailingAllowedApprox": 195,
+  "undatedCategories": 254,
+  "changes": [
+    {
+      "insurerId": "bahn-bkk",
+      "insurerName": "BAHN-BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BAHN-BKK, PostCenter, 48123 Münster",
+      "sourceUrl": "https://www.bahn-bkk.de/service/kontakt-standorte/postadresse.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalny formularz Pflege i dokumenty Pflegekasse wskazują PostCenter, 48123 Münster."
+    },
+    {
+      "insurerId": "bahn-bkk",
+      "insurerName": "BAHN-BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BAHN-BKK, PostCenter, 48123 Münster",
+      "sourceUrl": "https://www.bahn-bkk.de/service/kontakt-standorte/postadresse.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postadresse dla korespondencji listownej. Nie znaleziono odrębnego adresu dla wypowiedzeń."
+    },
+    {
+      "insurerId": "bahn-bkk",
+      "insurerName": "BAHN-BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "BAHN-BKK, PostCenter, 48123 Münster",
+      "sourceUrl": "https://www.bahn-bkk.de/service/kontakt-standorte/widerspruch.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna instrukcja Widerspruch wskazuje bezpośrednio ten adres: BAHN-BKK, PostCenter, 48123 Münster. Wymagany podpis; zwykły e-mail nie wystarcza."
+    },
+    {
+      "insurerId": "bahn-bkk",
+      "insurerName": "BAHN-BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BAHN-BKK, PostCenter, 48123 Münster",
+      "sourceUrl": "https://www.bahn-bkk.de/service/kontakt-standorte/postadresse.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano odrębnego adresu Beitragsabteilung; użyć ogólnej Postadresse. W sprawach indywidualnych można skorzystać z BAHN-BKK App/Kontaktformular."
+    },
+    {
+      "insurerId": "bahn-bkk",
+      "insurerName": "BAHN-BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "BAHN-BKK, PostCenter, 48123 Münster",
+      "sourceUrl": "https://www.bahn-bkk.de/service/kontakt-standorte/postadresse.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wskazuje: „Ihre Briefpost schicken Sie bitte immer an unsere Postadresse” – PostCenter, 48123 Münster."
+    },
+    {
+      "insurerId": "bkk-gildemeister-seidensticker",
+      "insurerName": "BKK GILDEMEISTER SEIDENSTICKER",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Postfach 14 01 60, 33621 Bielefeld",
+      "sourceUrl": "https://www.bkkgs.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Winterstraße 49, 33649 Bielefeld jest adresem siedziby/placówki, nie należy jej używać jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-gildemeister-seidensticker",
+      "insurerName": "BKK GILDEMEISTER SEIDENSTICKER",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Postfach 14 01 60, 33621 Bielefeld",
+      "sourceUrl": "https://www.bkkgs.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Winterstraße 49, 33649 Bielefeld jest adresem siedziby/placówki, nie należy jej używać jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-gildemeister-seidensticker",
+      "insurerName": "BKK GILDEMEISTER SEIDENSTICKER",
+      "category": "general",
+      "status": "official_general",
+      "address": "Postfach 14 01 60, 33621 Bielefeld",
+      "sourceUrl": "https://www.bkkgs.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Winterstraße 49, 33649 Bielefeld jest adresem siedziby/placówki, nie należy jej używać jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-gildemeister-seidensticker",
+      "insurerName": "BKK GILDEMEISTER SEIDENSTICKER",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Postfach 14 01 60, 33621 Bielefeld",
+      "sourceUrl": "https://www.bkkgs.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Winterstraße 49, 33649 Bielefeld jest adresem siedziby/placówki, nie należy jej używać jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-melitta-hmr",
+      "insurerName": "bkk melitta hmr",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Postfach 1224, 32372 Minden",
+      "sourceUrl": "https://www.bkk-melitta-hmr.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift potwierdzona. Widerspruch kierować zgodnie z Bescheid; zwykły e-mail nie jest skutecznym formalnym kanałem."
+    },
+    {
+      "insurerId": "bkk-melitta-hmr",
+      "insurerName": "bkk melitta hmr",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Postfach 1224, 32372 Minden",
+      "sourceUrl": "https://www.bkk-melitta-hmr.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift potwierdzona. Widerspruch kierować zgodnie z Bescheid; zwykły e-mail nie jest skutecznym formalnym kanałem."
+    },
+    {
+      "insurerId": "bkk-melitta-hmr",
+      "insurerName": "bkk melitta hmr",
+      "category": "general",
+      "status": "official_general",
+      "address": "Postfach 1224, 32372 Minden",
+      "sourceUrl": "https://www.bkk-melitta-hmr.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift potwierdzona. Widerspruch kierować zgodnie z Bescheid; zwykły e-mail nie jest skutecznym formalnym kanałem."
+    },
+    {
+      "insurerId": "bkk-melitta-hmr",
+      "insurerName": "bkk melitta hmr",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Postfach 1224, 32372 Minden",
+      "sourceUrl": "https://www.bkk-melitta-hmr.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift potwierdzona. Widerspruch kierować zgodnie z Bescheid; zwykły e-mail nie jest skutecznym formalnym kanałem."
+    },
+    {
+      "insurerId": "bkk-groz-beckert",
+      "insurerName": "BKK Groz-Beckert",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Postfach 10 00 27, 72421 Albstadt",
+      "sourceUrl": "https://www.bkk-gb.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Unter dem Malesfelsen 72, 72458 Albstadt jest odrębnym adresem Hausanschrift."
+    },
+    {
+      "insurerId": "bkk-groz-beckert",
+      "insurerName": "BKK Groz-Beckert",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Postfach 10 00 27, 72421 Albstadt",
+      "sourceUrl": "https://www.bkk-gb.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Unter dem Malesfelsen 72, 72458 Albstadt jest odrębnym adresem Hausanschrift."
+    },
+    {
+      "insurerId": "bkk-groz-beckert",
+      "insurerName": "BKK Groz-Beckert",
+      "category": "general",
+      "status": "official_general",
+      "address": "Postfach 10 00 27, 72421 Albstadt",
+      "sourceUrl": "https://www.bkk-gb.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Unter dem Malesfelsen 72, 72458 Albstadt jest odrębnym adresem Hausanschrift."
+    },
+    {
+      "insurerId": "bkk-groz-beckert",
+      "insurerName": "BKK Groz-Beckert",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Postfach 10 00 27, 72421 Albstadt",
+      "sourceUrl": "https://www.bkk-gb.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift potwierdzona. Unter dem Malesfelsen 72, 72458 Albstadt jest odrębnym adresem Hausanschrift."
+    },
+    {
+      "insurerId": "bkk-public",
+      "insurerName": "BKK Public",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Public, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-public.de/kontakt-1",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift. Nie zastępować jej adresami Geschäftsstelle. Widerspruch stosować zgodnie z oficjalną procedurą i indywidualnym Bescheid."
+    },
+    {
+      "insurerId": "bkk-public",
+      "insurerName": "BKK Public",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Public, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-public.de/kontakt-1",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift. Nie zastępować jej adresami Geschäftsstelle. Widerspruch stosować zgodnie z oficjalną procedurą i indywidualnym Bescheid."
+    },
+    {
+      "insurerId": "bkk-public",
+      "insurerName": "BKK Public",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Public, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-public.de/kontakt-1",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift. Nie zastępować jej adresami Geschäftsstelle. Widerspruch stosować zgodnie z oficjalną procedurą i indywidualnym Bescheid."
+    },
+    {
+      "insurerId": "bkk-public",
+      "insurerName": "BKK Public",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Public, 30645 Hannover",
+      "sourceUrl": "https://www.bkk-public.de/kontakt-1",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift. Nie zastępować jej adresami Geschäftsstelle. Widerspruch stosować zgodnie z oficjalną procedurą i indywidualnym Bescheid."
+    },
+    {
+      "insurerId": "bkk-scheufelen",
+      "insurerName": "BKK Scheufelen",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Scheufelen, 73228 Kirchheim/Teck",
+      "sourceUrl": "https://www.bkk-scheufelen.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa jawnie podaje Postanschrift bez ulicy: BKK Scheufelen, 73228 Kirchheim/Teck. Schöllkopfstraße 65 to adres Geschäftsstelle."
+    },
+    {
+      "insurerId": "bkk-scheufelen",
+      "insurerName": "BKK Scheufelen",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Scheufelen, 73228 Kirchheim/Teck",
+      "sourceUrl": "https://www.bkk-scheufelen.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano odrębnej Postanschrift Beitragsabteilung; podano wyłącznie potwierdzony adres ogólny."
+    },
+    {
+      "insurerId": "bkk-scheufelen",
+      "insurerName": "BKK Scheufelen",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Scheufelen, 73228 Kirchheim/Teck",
+      "sourceUrl": "https://www.bkk-scheufelen.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa jawnie podaje Postanschrift bez ulicy: BKK Scheufelen, 73228 Kirchheim/Teck. Schöllkopfstraße 65 to adres Geschäftsstelle."
+    },
+    {
+      "insurerId": "bkk-scheufelen",
+      "insurerName": "BKK Scheufelen",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Scheufelen, 73228 Kirchheim/Teck",
+      "sourceUrl": "https://www.bkk-scheufelen.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa jawnie podaje Postanschrift bez ulicy: BKK Scheufelen, 73228 Kirchheim/Teck. Schöllkopfstraße 65 to adres Geschäftsstelle."
+    },
+    {
+      "insurerId": "bkk-wurth",
+      "insurerName": "BKK-Würth",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Würth, Postfach, 74650 Künzelsau",
+      "sourceUrl": "https://www.bkk-wuerth.de/de/bkk_wuerth/ueber_uns/kontakt.php",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona rozdziela Postanschrift Postfach, 74650 Künzelsau od Hausanschrift Gartenstraße 11, 74653 Künzelsau. Instrukcja Widerspruch wskazuje jednak wysyłkę na Gartenstraße 11; dla Widerspruch używać tej instrukcji, nie automatycznie Postfach."
+    },
+    {
+      "insurerId": "bkk-wurth",
+      "insurerName": "BKK-Würth",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BKK Würth, Postfach, 74650 Künzelsau",
+      "sourceUrl": "https://www.bkk-wuerth.de/de/bkk_wuerth/ueber_uns/kontakt.php",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano odrębnej Postanschrift Beitragsabteilung; podano wyłącznie potwierdzony adres ogólny."
+    },
+    {
+      "insurerId": "bkk-wurth",
+      "insurerName": "BKK-Würth",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Würth, Postfach, 74650 Künzelsau",
+      "sourceUrl": "https://www.bkk-wuerth.de/de/bkk_wuerth/ueber_uns/kontakt.php",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona rozdziela Postanschrift Postfach, 74650 Künzelsau od Hausanschrift Gartenstraße 11, 74653 Künzelsau. Instrukcja Widerspruch wskazuje jednak wysyłkę na Gartenstraße 11; dla Widerspruch używać tej instrukcji, nie automatycznie Postfach."
+    },
+    {
+      "insurerId": "bkk-wurth",
+      "insurerName": "BKK-Würth",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Würth, Postfach, 74650 Künzelsau",
+      "sourceUrl": "https://www.bkk-wuerth.de/de/bkk_wuerth/ueber_uns/kontakt.php",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona rozdziela Postanschrift Postfach, 74650 Künzelsau od Hausanschrift Gartenstraße 11, 74653 Künzelsau. Instrukcja Widerspruch wskazuje jednak wysyłkę na Gartenstraße 11; dla Widerspruch używać tej instrukcji, nie automatycznie Postfach."
+    },
+    {
+      "insurerId": "energie-betriebskrankenkasse",
+      "insurerName": "energie-Betriebskrankenkasse",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "energie-BKK, 30134 Hannover",
+      "sourceUrl": "https://www.energie-bkk.de/faq/wie-erreiche-ich-den-service-der-energie-bkk/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Brak osobnego adresu pocztowego; oficjalny kontakt działowy pflege@energie-bkk.de."
+    },
+    {
+      "insurerId": "energie-betriebskrankenkasse",
+      "insurerName": "energie-Betriebskrankenkasse",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "energie-BKK, 30134 Hannover",
+      "sourceUrl": "https://www.energie-bkk.de/faq/wie-erreiche-ich-den-service-der-energie-bkk/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Brak osobnego adresu pocztowego; oficjalny kontakt działowy beitraege@energie-bkk.de."
+    },
+    {
+      "insurerId": "energie-betriebskrankenkasse",
+      "insurerName": "energie-Betriebskrankenkasse",
+      "category": "general",
+      "status": "official_general",
+      "address": "energie-BKK, 30134 Hannover",
+      "sourceUrl": "https://www.energie-bkk.de/faq/wie-erreiche-ich-den-service-der-energie-bkk/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift Großkundenpostfach; nie dopisywać ulicy. Oldenburger Allee 24 to Hauptverwaltung i adres wskazany dla Widerspruch."
+    },
+    {
+      "insurerId": "energie-betriebskrankenkasse",
+      "insurerName": "energie-Betriebskrankenkasse",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "energie-BKK, 30134 Hannover",
+      "sourceUrl": "https://www.energie-bkk.de/faq/wie-erreiche-ich-den-service-der-energie-bkk/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Postanschrift Großkundenpostfach; nie dopisywać ulicy. Oldenburger Allee 24 to Hauptverwaltung i adres wskazany dla Widerspruch."
+    },
+    {
+      "insurerId": "heimat-krankenkasse",
+      "insurerName": "Heimat Krankenkasse",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Heimat Krankenkasse, Herforder Straße 23, 33602 Bielefeld",
+      "sourceUrl": "https://www.heimat-krankenkasse.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie oznacza ten adres jako zentrale Postanschrift dla szybkiej obsługi spraw. Nie używać innych adresów placówek jako zamiennika."
+    },
+    {
+      "insurerId": "heimat-krankenkasse",
+      "insurerName": "Heimat Krankenkasse",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Heimat Krankenkasse, Herforder Straße 23, 33602 Bielefeld",
+      "sourceUrl": "https://www.heimat-krankenkasse.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie oznacza ten adres jako zentrale Postanschrift dla szybkiej obsługi spraw. Nie używać innych adresów placówek jako zamiennika."
+    },
+    {
+      "insurerId": "heimat-krankenkasse",
+      "insurerName": "Heimat Krankenkasse",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "Heimat Krankenkasse, Herforder Straße 23, 33602 Bielefeld",
+      "sourceUrl": "https://www.heimat-krankenkasse.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura dopuszcza Widerspruch pisemnie pocztą, osobiście, przez ServiceApp lub beBPo. Nie publikuje osobnego adresu sprzeciwu; użyto wyraźnie wskazanej centralnej Postanschrift. Termin zasadniczo miesiąc; zwykły e-mail nie wystarcza."
+    },
+    {
+      "insurerId": "heimat-krankenkasse",
+      "insurerName": "Heimat Krankenkasse",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Heimat Krankenkasse, Herforder Straße 23, 33602 Bielefeld",
+      "sourceUrl": "https://www.heimat-krankenkasse.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie oznacza ten adres jako zentrale Postanschrift dla szybkiej obsługi spraw. Nie używać innych adresów placówek jako zamiennika."
+    },
+    {
+      "insurerId": "heimat-krankenkasse",
+      "insurerName": "Heimat Krankenkasse",
+      "category": "general",
+      "status": "official_general",
+      "address": "Heimat Krankenkasse, Herforder Straße 23, 33602 Bielefeld",
+      "sourceUrl": "https://www.heimat-krankenkasse.de/kontakt/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie oznacza ten adres jako zentrale Postanschrift dla szybkiej obsługi spraw. Nie używać innych adresów placówek jako zamiennika."
+    },
+    {
+      "insurerId": "ikk-classic",
+      "insurerName": "IKK classic",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "IKK classic, 04063 Leipzig",
+      "sourceUrl": "https://www.ikk-classic.de/pk/sp/kontakt/adresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "IKK classic publikuje centralną Postanschrift w Lipsku i jednoznacznie wskazuje, że obowiązuje ona w całym kraju dla wszystkich spraw korespondencyjnych. Nie dopisywać ulicy ani adresu Hauptsitz w Dreźnie. Procedura Widerspruch IKK classic obejmuje również Pflegekasse."
+    },
+    {
+      "insurerId": "ikk-classic",
+      "insurerName": "IKK classic",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "IKK classic, 04063 Leipzig",
+      "sourceUrl": "https://www.ikk-classic.de/pk/sp/kontakt/adresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "IKK classic publikuje centralną Postanschrift w Lipsku i jednoznacznie wskazuje, że obowiązuje ona w całym kraju dla wszystkich spraw korespondencyjnych. Nie dopisywać ulicy ani adresu Hauptsitz w Dreźnie."
+    },
+    {
+      "insurerId": "ikk-classic",
+      "insurerName": "IKK classic",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "IKK classic, 04063 Leipzig",
+      "sourceUrl": "https://www.ikk-classic.de/pk/sp/kontakt/adresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura potwierdza możliwość złożenia Widerspruch klasyczną pocztą oraz osobne kanały cyfrowe i osobiste. Adres pocztowy wynika z oficjalnej centralnej Postanschrift obowiązującej dla wszystkich spraw. Procedura obejmuje również Pflegekasse. Dla szczegółowych wymogów i terminu sprawdzić Rechtsbehelfsbelehrung indywidualnego Bescheid."
+    },
+    {
+      "insurerId": "ikk-classic",
+      "insurerName": "IKK classic",
+      "category": "general",
+      "status": "official_general",
+      "address": "IKK classic, 04063 Leipzig",
+      "sourceUrl": "https://www.ikk-classic.de/pk/sp/kontakt/adresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "IKK classic publikuje centralną Postanschrift w Lipsku i jednoznacznie wskazuje, że obowiązuje ona w całym kraju dla wszystkich spraw korespondencyjnych. Nie dopisywać ulicy ani adresu Hauptsitz w Dreźnie."
+    },
+    {
+      "insurerId": "ikk-sudwest",
+      "insurerName": "IKK Südwest",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "IKK Südwest, 66098 Saarbrücken",
+      "sourceUrl": "https://www.ikk-suedwest.de/faq/adresse-ikk-suedwest/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona IKK Südwest publikuje zentrale Postadresse w formie nazwy kasy i kodu pocztowego bez ulicy. Adresy Kundencenter są adresami wizyt, nie należy ich podstawiać do kopert. Oficjalna instrukcja Widerspruch obejmuje również decyzje Pflegekasse."
+    },
+    {
+      "insurerId": "ikk-sudwest",
+      "insurerName": "IKK Südwest",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "IKK Südwest, 66098 Saarbrücken",
+      "sourceUrl": "https://www.ikk-suedwest.de/faq/adresse-ikk-suedwest/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona IKK Südwest publikuje zentrale Postadresse w formie nazwy kasy i kodu pocztowego bez ulicy. Adresy Kundencenter są adresami wizyt, nie należy ich podstawiać do kopert."
+    },
+    {
+      "insurerId": "ikk-sudwest",
+      "insurerName": "IKK Südwest",
+      "category": "widerspruch",
+      "status": "verified",
+      "address": "IKK Südwest, 66098 Saarbrücken",
+      "sourceUrl": "https://www.ikk-suedwest.de/ueber-uns/die-ikk-suedwest/daten-und-fakten/beschwerden-und-widersprueche/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura Widerspruch wprost wskazuje Postanschrift 66098 Saarbrücken, obejmuje decyzje Krankenkasse i Pflegekasse. Dla sprzeciwów z zagranicy stosować dodatkowo Rechtsbehelfsbelehrung z Bescheid."
+    },
+    {
+      "insurerId": "ikk-sudwest",
+      "insurerName": "IKK Südwest",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "IKK Südwest, 66098 Saarbrücken",
+      "sourceUrl": "https://www.ikk-suedwest.de/faq/adresse-ikk-suedwest/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona IKK Südwest publikuje zentrale Postadresse w formie nazwy kasy i kodu pocztowego bez ulicy. Adresy Kundencenter są adresami wizyt, nie należy ich podstawiać do kopert. Nie opublikowano osobnej Postanschrift Beitragsabteilung."
+    },
+    {
+      "insurerId": "ikk-sudwest",
+      "insurerName": "IKK Südwest",
+      "category": "general",
+      "status": "official_general",
+      "address": "IKK Südwest, 66098 Saarbrücken",
+      "sourceUrl": "https://www.ikk-suedwest.de/faq/adresse-ikk-suedwest/",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona IKK Südwest publikuje zentrale Postadresse w formie nazwy kasy i kodu pocztowego bez ulicy. Adresy Kundencenter są adresami wizyt, nie należy ich podstawiać do kopert."
+    },
+    {
+      "insurerId": "knappschaft",
+      "insurerName": "KNAPPSCHAFT",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "KNAPPSCHAFT, Kranken- und Pflegeversicherung, 45095 Essen",
+      "sourceUrl": "https://www.knappschaft.de/kontakt/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa wskazuje 45095 Essen dla korespondencji w sprawach Kranken- und Pflegeversicherung. Adres jest podawany bez ulicy; nie dopisywać adresu siedziby Deutsche Rentenversicherung Knappschaft-Bahn-See. Oficjalna Postanschrift obejmuje Kranken- und Pflegeversicherung."
+    },
+    {
+      "insurerId": "knappschaft",
+      "insurerName": "KNAPPSCHAFT",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "KNAPPSCHAFT, Versicherung und Beitrag, 45095 Essen",
+      "sourceUrl": "https://www.knappschaft.de/kontakt/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa podaje osobną trasę pocztową „Versicherung und Beitrag, 45095 Essen” dla spraw składkowych. Zachować dokładną nazwę działu."
+    },
+    {
+      "insurerId": "knappschaft",
+      "insurerName": "KNAPPSCHAFT",
+      "category": "general",
+      "status": "official_general",
+      "address": "KNAPPSCHAFT, Kranken- und Pflegeversicherung, 45095 Essen",
+      "sourceUrl": "https://www.knappschaft.de/kontakt/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa wskazuje 45095 Essen dla korespondencji w sprawach Kranken- und Pflegeversicherung. Adres jest podawany bez ulicy; nie dopisywać adresu siedziby Deutsche Rentenversicherung Knappschaft-Bahn-See."
+    },
+    {
+      "insurerId": "knappschaft",
+      "insurerName": "KNAPPSCHAFT",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "KNAPPSCHAFT, Kranken- und Pflegeversicherung, 45095 Essen",
+      "sourceUrl": "https://www.knappschaft.de/kontakt/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa wskazuje 45095 Essen dla korespondencji w sprawach Kranken- und Pflegeversicherung. Adres jest podawany bez ulicy; nie dopisywać adresu siedziby Deutsche Rentenversicherung Knappschaft-Bahn-See."
+    },
+    {
+      "insurerId": "novitas-bkk",
+      "insurerName": "novitas bkk",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "47050 Duisburg",
+      "sourceUrl": "https://www.novitas-bkk.de/de/unternehmen-angebote/kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift jest wspólna dla novitas bkk; nie opublikowano osobnego adresu pocztowego Pflegekasse. Widerspruch od decyzji Pflegekasse ma osobny adres procedury: Zum Portsmouthplatz 24, 47051 Duisburg."
+    },
+    {
+      "insurerId": "novitas-bkk",
+      "insurerName": "novitas bkk",
+      "category": "general",
+      "status": "official_general",
+      "address": "47050 Duisburg",
+      "sourceUrl": "https://www.novitas-bkk.de/de/unternehmen-angebote/kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie oznacza 47050 Duisburg jako zentrale Postanschrift; bez ulicy i numeru Postfach."
+    },
+    {
+      "insurerId": "novitas-bkk",
+      "insurerName": "novitas bkk",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "47050 Duisburg",
+      "sourceUrl": "https://www.novitas-bkk.de/de/unternehmen-angebote/kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona podaje centralną Postanschrift bez ulicy i Postfach. Nie zastępować adresem Zum Portsmouthplatz 24, 47051 Duisburg, wskazanym dla Widerspruch."
+    },
+    {
+      "insurerId": "salus-bkk",
+      "insurerName": "Salus BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "Salus BKK, Barfußgäßchen 15, 04109 Leipzig",
+      "sourceUrl": "https://www.salus-bkk.de/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnego adresu pocztowego Pflegekasse. Oficjalna procedura Widerspruch obejmuje decyzje Pflegeversicherung; zwykła korespondencja kierowana na centralną Postanschrift."
+    },
+    {
+      "insurerId": "salus-bkk",
+      "insurerName": "Salus BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "Salus BKK, Barfußgäßchen 15, 04109 Leipzig",
+      "sourceUrl": "https://www.salus-bkk.de/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona oznacza adres jako Zentrale Postanschrift i prosi o używanie go przy kontakcie pocztowym."
+    },
+    {
+      "insurerId": "salus-bkk",
+      "insurerName": "Salus BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "Salus BKK, Barfußgäßchen 15, 04109 Leipzig",
+      "sourceUrl": "https://www.salus-bkk.de/service-formulare/unsere-beratung/widerspruchsverfahren",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura potwierdza Widerspruch od decyzji Krankenversicherung, Pflegeversicherung i Beitragsforderungen: w ciągu miesiąca, pisemnie z podpisem, elektronicznie z podpisem lub do protokołu w Geschäftsstelle. Procedura nie podaje osobnego adresu pocztowego; stosować oficjalną Zentrale Postanschrift i sprawdzić Rechtsbehelfsbelehrung Bescheid."
+    },
+    {
+      "insurerId": "salus-bkk",
+      "insurerName": "Salus BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Salus BKK, Barfußgäßchen 15, 04109 Leipzig",
+      "sourceUrl": "https://www.salus-bkk.de/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnego adresu pocztowego działu składek. Oficjalna centralna Postanschrift jest przeznaczona do korespondencji pocztowej; dotyczy to również spraw składkowych."
+    },
+    {
+      "insurerId": "sozialversicherung-fur-landwirtschaft-forsten-und-gartenbau-svlfg",
+      "insurerName": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG)",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "SVLFG, 34105 Kassel",
+      "sourceUrl": "https://www.svlfg.de/post",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "SVLFG prowadzi Landwirtschaftliche Pflegekasse. Centralna Postanschrift to 34105 Kassel; dla formalnego Widerspruch od decyzji Pflegekasse użyć Frankfurter Straße 126, 34121 Kassel zgodnie z oficjalną instrukcją."
+    },
+    {
+      "insurerId": "sozialversicherung-fur-landwirtschaft-forsten-und-gartenbau-svlfg",
+      "insurerName": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG)",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "SVLFG, Versicherung Beitrag, 34105 Kassel",
+      "sourceUrl": "https://cdn.svlfg.de/fiona8-blobs/public/svlfgonpremiseproduction/96ecdc7468b214d8/c554fd256eee/muster-beitragbescheid-2026.pdf",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalny wzór Beitragsbescheid 2026 podaje Postanschrift „SVLFG, Versicherung Beitrag, 34105 Kassel”. Nie używać adresu siedziby jako zamiennika."
+    },
+    {
+      "insurerId": "sozialversicherung-fur-landwirtschaft-forsten-und-gartenbau-svlfg",
+      "insurerName": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG)",
+      "category": "general",
+      "status": "official_general",
+      "address": "SVLFG, 34105 Kassel",
+      "sourceUrl": "https://www.svlfg.de/post",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona SVLFG publikuje centralną Postanschrift SVLFG, 34105 Kassel (bez ulicy) i prosi o podanie Aktenzeichen oraz Geschäftsbereich, jeśli są dostępne. Nie zastępować jej adresem siedziby przy Weißensteinstraße 70–72."
+    },
+    {
+      "insurerId": "sozialversicherung-fur-landwirtschaft-forsten-und-gartenbau-svlfg",
+      "insurerName": "Sozialversicherung für Landwirtschaft, Forsten und Gartenbau (SVLFG)",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "SVLFG, 34105 Kassel",
+      "sourceUrl": "https://www.svlfg.de/post",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "SVLFG publikuje centralną Postanschrift 34105 Kassel. W sprawach zakończenia/zmiany obowiązku ubezpieczeniowego należy podać Geschäftsbereich i Aktenzeichen; nie jest to zwykła kasa otwarta dla wszystkich pracowników."
+    },
+    {
+      "insurerId": "handelskrankenkasse-hkk",
+      "insurerName": "Handelskrankenkasse (hkk)",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "hkk Krankenkasse, 28185 Bremen",
+      "sourceUrl": "https://www.hkk.de/kontakt/zentrale-postadresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "hkk wskazuje tę jedną centralną Postadresse jako wyłączny adres do wysyłania listów i dokumentów. Nie należy dopisywać ulicy ani używać adresu placówki."
+    },
+    {
+      "insurerId": "handelskrankenkasse-hkk",
+      "insurerName": "Handelskrankenkasse (hkk)",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "hkk Krankenkasse, 28185 Bremen",
+      "sourceUrl": "https://www.hkk.de/kontakt/zentrale-postadresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "hkk wskazuje tę jedną centralną Postadresse jako wyłączny adres do wysyłania listów i dokumentów. Nie należy dopisywać ulicy ani używać adresu placówki."
+    },
+    {
+      "insurerId": "handelskrankenkasse-hkk",
+      "insurerName": "Handelskrankenkasse (hkk)",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "hkk Krankenkasse, 28185 Bremen",
+      "sourceUrl": "https://www.hkk.de/kontakt/zentrale-postadresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "hkk potwierdza możliwość Widerspruch pocztą w terminie miesiąca, ale nie publikuje osobnego adresu dla sprzeciwów. Użyto jedynej centralnej Postadresse wskazanej wyłącznie do całej korespondencji. Pismo musi być podpisane odręcznie; elektronicznie wymagany QES lub aplikacja; zwykły e-mail i fax są niedopuszczalne."
+    },
+    {
+      "insurerId": "handelskrankenkasse-hkk",
+      "insurerName": "Handelskrankenkasse (hkk)",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "hkk Krankenkasse, 28185 Bremen",
+      "sourceUrl": "https://www.hkk.de/kontakt/zentrale-postadresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "hkk wskazuje tę jedną centralną Postadresse jako wyłączny adres do wysyłania listów i dokumentów. Nie należy dopisywać ulicy ani używać adresu placówki."
+    },
+    {
+      "insurerId": "handelskrankenkasse-hkk",
+      "insurerName": "Handelskrankenkasse (hkk)",
+      "category": "general",
+      "status": "official_general",
+      "address": "hkk Krankenkasse, 28185 Bremen",
+      "sourceUrl": "https://www.hkk.de/kontakt/zentrale-postadresse",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "hkk wskazuje tę jedną centralną Postadresse jako wyłączny adres do wysyłania listów i dokumentów. Nie należy dopisywać ulicy ani używać adresu placówki."
+    },
+    {
+      "insurerId": "bkk-mkk-meine-krankenkasse",
+      "insurerName": "BKK mkk - meine krankenkasse",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "mkk – meine krankenkasse, 10857 Berlin",
+      "sourceUrl": "https://www.meine-krankenkasse.de/kontakt/weitere-kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift 10857 Berlin. Nie używać adresu Hauptverwaltung Prenzlauer Allee 96, 10409 Berlin jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-mkk-meine-krankenkasse",
+      "insurerName": "BKK mkk - meine krankenkasse",
+      "category": "general",
+      "status": "official_general",
+      "address": "mkk – meine krankenkasse, 10857 Berlin",
+      "sourceUrl": "https://www.meine-krankenkasse.de/kontakt/weitere-kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift 10857 Berlin. Nie używać adresu Hauptverwaltung Prenzlauer Allee 96, 10409 Berlin jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-mkk-meine-krankenkasse",
+      "insurerName": "BKK mkk - meine krankenkasse",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "mkk – meine krankenkasse, 10857 Berlin",
+      "sourceUrl": "https://www.meine-krankenkasse.de/kontakt/weitere-kontaktmoeglichkeiten",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Postanschrift 10857 Berlin. Nie używać adresu Hauptverwaltung Prenzlauer Allee 96, 10409 Berlin jako zamiennika."
+    },
+    {
+      "insurerId": "bkk-pfalz",
+      "insurerName": "BKK Pfalz",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BKK Pfalz, Lichtenbergerstraße 16, 67059 Ludwigshafen",
+      "sourceUrl": "https://www.bkkpfalz.de/unternehmen/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona oznacza ten adres jako zentrale Postanschrift. Nie używać adresu Kundenzentrum przy Ludwigstraße 30a jako adresu pocztowego."
+    },
+    {
+      "insurerId": "bkk-pfalz",
+      "insurerName": "BKK Pfalz",
+      "category": "general",
+      "status": "official_general",
+      "address": "BKK Pfalz, Lichtenbergerstraße 16, 67059 Ludwigshafen",
+      "sourceUrl": "https://www.bkkpfalz.de/unternehmen/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona oznacza ten adres jako zentrale Postanschrift. Nie używać adresu Kundenzentrum przy Ludwigstraße 30a jako adresu pocztowego."
+    },
+    {
+      "insurerId": "bkk-pfalz",
+      "insurerName": "BKK Pfalz",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BKK Pfalz, Lichtenbergerstraße 16, 67059 Ludwigshafen",
+      "sourceUrl": "https://www.bkkpfalz.de/unternehmen/ansprechpartner",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona oznacza ten adres jako zentrale Postanschrift. Nie używać adresu Kundenzentrum przy Ludwigstraße 30a jako adresu pocztowego."
+    },
+    {
+      "insurerId": "vivida-bkk",
+      "insurerName": "vivida bkk",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "78044 Villingen-Schwenningen",
+      "sourceUrl": "https://www.vividabkk.de/de/service/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Brak osobnej Postanschrift Pflegekasse; oficjalna procedura Widerspruch obejmuje również Pflegekasse. Użyć adresu centralnego."
+    },
+    {
+      "insurerId": "vivida-bkk",
+      "insurerName": "vivida bkk",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "78044 Villingen-Schwenningen",
+      "sourceUrl": "https://www.vividabkk.de/de/service/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Zentrale Postanschrift. Nie dopisywać ulicy."
+    },
+    {
+      "insurerId": "vivida-bkk",
+      "insurerName": "vivida bkk",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "78044 Villingen-Schwenningen",
+      "sourceUrl": "https://www.vividabkk.de/de/leistungen-versicherung/leistungen-von-a-bis-z/widerspruch",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Widerspruch dotyczy decyzji Leistungen, Versicherungen i Beiträge, także vivida bkk oraz Pflegekasse. Dopuszczone pismo, do protokołu, App/OGS lub QES; termin zasadniczo miesiąc. Brak odrębnego adresu — użyć centralnej Postanschrift."
+    },
+    {
+      "insurerId": "vivida-bkk",
+      "insurerName": "vivida bkk",
+      "category": "general",
+      "status": "official_general",
+      "address": "78044 Villingen-Schwenningen",
+      "sourceUrl": "https://www.vividabkk.de/de/service/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna Zentrale Postanschrift potwierdzona na stronie kontaktowej."
+    },
+    {
+      "insurerId": "zf-bkk",
+      "insurerName": "ZF BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "ZF BKK, 88043 Friedrichshafen",
+      "sourceUrl": "https://pflegekasse.zfbkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Osobna strona Pflegekasse potwierdza centralną Postanschrift ZF BKK, 88043 Friedrichshafen."
+    },
+    {
+      "insurerId": "zf-bkk",
+      "insurerName": "ZF BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "ZF BKK, 88043 Friedrichshafen",
+      "sourceUrl": "https://www.zfbkk.de/service/fuer-sie-vor-ort",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona określa ten adres jako zentrale Postanschrift."
+    },
+    {
+      "insurerId": "zf-bkk",
+      "insurerName": "ZF BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "ZF BKK, 88043 Friedrichshafen",
+      "sourceUrl": "https://www.zfbkk.de/widerspruchsverfahren",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura dotyczy decyzji ZF BKK i Pflegekasse. Termin zasadniczo miesiąc; należy stosować formy i pouczenie właściwe dla konkretnego Bescheid."
+    },
+    {
+      "insurerId": "zf-bkk",
+      "insurerName": "ZF BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "ZF BKK, 88043 Friedrichshafen",
+      "sourceUrl": "https://www.zfbkk.de/service/fuer-sie-vor-ort",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnej Postanschrift Beitragsabteilung; centralna Postanschrift jest punktem przyjęcia korespondencji."
+    },
+    {
+      "insurerId": "zf-bkk",
+      "insurerName": "ZF BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "ZF BKK, 88043 Friedrichshafen",
+      "sourceUrl": "https://www.zfbkk.de/service/fuer-sie-vor-ort",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna zentrale Postanschrift. Poczta jest digitalizowana w centrali i przekazywana właściwym specjalistom."
+    },
+    {
+      "insurerId": "tui-bkk",
+      "insurerName": "TUI BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "TUI BKK, 30645 Hannover",
+      "sourceUrl": "https://www.tui-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnej Postanschrift Pflegekasse; procedura Widerspruch obejmuje decyzje BKK Pflegekasse. Użyć centralnej Postanschrift."
+    },
+    {
+      "insurerId": "tui-bkk",
+      "insurerName": "TUI BKK",
+      "category": "widerspruch",
+      "status": "official_general",
+      "address": "TUI BKK, 30645 Hannover",
+      "sourceUrl": "https://www.tui-bkk.de/services/widerspruchsverfahren",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna procedura potwierdza Widerspruch od decyzji BKK i Pflegekasse, także składkowych; termin miesiąca (trzy miesiące przy doręczeniu za granicą), pisemnie/elektronicznie/do protokołu. Strona procedury nie podaje osobnego adresu; użyć potwierdzonej Postanschrift 30645 Hannover. Zwykły e-mail w formie tekstowej nie wystarcza."
+    },
+    {
+      "insurerId": "tui-bkk",
+      "insurerName": "TUI BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "TUI BKK, 30645 Hannover",
+      "sourceUrl": "https://www.tui-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnego adresu Beitragsabteilung dla członków; użyć centralnej Postanschrift."
+    },
+    {
+      "insurerId": "tui-bkk",
+      "insurerName": "TUI BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "TUI BKK, 30645 Hannover",
+      "sourceUrl": "https://www.tui-bkk.de/kontakt",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Potwierdzona Postanschrift TUI BKK: 30645 Hannover."
+    },
+    {
+      "insurerId": "securvita-bkk",
+      "insurerName": "SECURVITA BKK",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "SECURVITA Krankenkasse, Postfach 10 58 29, 20039 Hamburg",
+      "sourceUrl": "https://www.securvita.de/krankenkasse-securvita/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnej Postanschrift Pflegekasse; użyć centralnej Postanschrift. Widerspruch od decyzji należy kierować na adres Lübeckertordamm 1-3, 20099 Hamburg zgodnie z oficjalną procedurą."
+    },
+    {
+      "insurerId": "securvita-bkk",
+      "insurerName": "SECURVITA BKK",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "SECURVITA Krankenkasse, Postfach 10 58 29, 20039 Hamburg",
+      "sourceUrl": "https://www.securvita.de/krankenkasse-securvita/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Nie opublikowano osobnej Postanschrift Beitragsabteilung; użyć centralnej Postanschrift. W sprawach formalnych sprawdzić indywidualny Bescheid."
+    },
+    {
+      "insurerId": "securvita-bkk",
+      "insurerName": "SECURVITA BKK",
+      "category": "general",
+      "status": "official_general",
+      "address": "SECURVITA Krankenkasse, Postfach 10 58 29, 20039 Hamburg",
+      "sourceUrl": "https://www.securvita.de/krankenkasse-securvita/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Potwierdzona centralna Postanschrift. Nie mylić z Besucheradresse Lübeckertordamm 1-3, 20099 Hamburg."
+    },
+    {
+      "insurerId": "securvita-bkk",
+      "insurerName": "SECURVITA BKK",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "SECURVITA Krankenkasse, Postfach 10 58 29, 20039 Hamburg",
+      "sourceUrl": "https://www.securvita.de/krankenkasse-securvita/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona kontaktowa SECURVITA Krankenkasse wyraźnie oznacza Postfach 10 58 29, 20039 Hamburg jako Postanschrift. Lübeckertordamm 1-3, 20099 Hamburg jest Besucheradresse."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-mobil",
+      "insurerName": "Betriebskrankenkasse Mobil",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "Mobil Krankenkasse, 20091 Hamburg",
+      "sourceUrl": "https://mobil-krankenkasse.de/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie określa 20091 Hamburg jako Postadresse dla dokumentów, wniosków, formularzy i korespondencji dotyczącej ubezpieczenia. Brak potwierdzonego odrębnego adresu dla tej kategorii; zastosowano ogólną Postanschrift."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-mobil",
+      "insurerName": "Betriebskrankenkasse Mobil",
+      "category": "general",
+      "status": "official_general",
+      "address": "Mobil Krankenkasse, 20091 Hamburg",
+      "sourceUrl": "https://mobil-krankenkasse.de/kontakt.html",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Oficjalna strona wyraźnie określa 20091 Hamburg jako Postadresse dla dokumentów, wniosków, formularzy i korespondencji dotyczącej ubezpieczenia. Brak potwierdzonego odrębnego adresu dla tej kategorii; zastosowano ogólną Postanschrift."
+    },
+    {
+      "insurerId": "barmer",
+      "insurerName": "BARMER",
+      "category": "pflegekasse",
+      "status": "official_general",
+      "address": "BARMER, 42266 Wuppertal",
+      "sourceUrl": "https://www.barmer.de/persoenliche-beratung/zentrale-postanschriften-1003548",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift BARMER potwierdzona na oficjalnej stronie. Wcześniejszy adres 73524 Schwäbisch Gmünd był adresem lokalizacji/placówki, nie centralną Postanschrift. Widerspruch nadal wymaga indywidualnej kontroli."
+    },
+    {
+      "insurerId": "barmer",
+      "insurerName": "BARMER",
+      "category": "contributions",
+      "status": "official_general",
+      "address": "BARMER, 42266 Wuppertal",
+      "sourceUrl": "https://www.barmer.de/persoenliche-beratung/zentrale-postanschriften-1003548",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift BARMER potwierdzona na oficjalnej stronie. Wcześniejszy adres 73524 Schwäbisch Gmünd był adresem lokalizacji/placówki, nie centralną Postanschrift. Widerspruch nadal wymaga indywidualnej kontroli."
+    },
+    {
+      "insurerId": "barmer",
+      "insurerName": "BARMER",
+      "category": "general",
+      "status": "official_general",
+      "address": "BARMER, 42266 Wuppertal",
+      "sourceUrl": "https://www.barmer.de/persoenliche-beratung/zentrale-postanschriften-1003548",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift BARMER potwierdzona na oficjalnej stronie. Wcześniejszy adres 73524 Schwäbisch Gmünd był adresem lokalizacji/placówki, nie centralną Postanschrift. Widerspruch nadal wymaga indywidualnej kontroli."
+    },
+    {
+      "insurerId": "barmer",
+      "insurerName": "BARMER",
+      "category": "kuendigung",
+      "status": "official_general",
+      "address": "BARMER, 42266 Wuppertal",
+      "sourceUrl": "https://www.barmer.de/persoenliche-beratung/zentrale-postanschriften-1003548",
+      "sourceVerifiedAt": "2026-11-17",
+      "notes": "Centralna Postanschrift BARMER potwierdzona na oficjalnej stronie. Wcześniejszy adres 73524 Schwäbisch Gmünd był adresem lokalizacji/placówki, nie centralną Postanschrift. Widerspruch nadal wymaga indywidualnej kontroli."
+    }
+  ],
+  "notPromoted": [
+    {
+      "insurerId": "aok-regional",
+      "reason": "Oficjalna wyszukiwarka wymaga PLZ; nie wstawiono statycznego adresu."
+    },
+    {
+      "insurerId": "pronova-bkk",
+      "reason": "Niespójne oficjalne dane 67058/67082 Ludwigshafen; reguła regionalna wymaga dalszej weryfikacji."
+    },
+    {
+      "insurerId": "bkk-freudenberg",
+      "reason": "Oficjalna strona publikuje dwie Postanschriften (Weinheim i Neuenburg); wymagane kierowanie według odbiorcy."
+    },
+    {
+      "insurerId": "betriebskrankenkasse-ewe",
+      "reason": "Oficjalna strona pokazuje adres uliczny i Postfach, ale nie określa jednoznacznie Postanschrift."
+    },
+    {
+      "insurerId": "bkk24",
+      "reason": "Znaleziony adres tylko w starszym dokumencie z 2022 r.; brak aktualnego potwierdzenia."
+    }
+  ],
+  "safety": "No dates were added to categories with no address or status outside official_general/verified. Existing category-specific source URLs and notes were preserved. BARMER central postal address corrected to 42266 Wuppertal; Widerspruch remains individually controlled.",
+  "deployment": "Not deployed; no Cloudflare KV import."
+}
