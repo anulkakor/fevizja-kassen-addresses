@@ -71,11 +71,11 @@ service = "fevizja-kassen-api"
 
 [[env.production.kv_namespaces]]
 binding = "ADDRESS_KV"
-id = "c113ad6ecfa241d79328275721248f13"
+id = "b84dc4fe0e2d4f0bb71c2ab2554e9bab"
 
 [[env.production.kv_namespaces]]
 binding = "ADDRESS_HISTORY_KV"
-id = "a1ba8c5c57474eebbb08975420ce1cbc"
+id = "323d643acc5b48e4a527bb8c2a59558e"
 
 [[ratelimits]]
 name = "ADMIN_RATE_LIMITER"
