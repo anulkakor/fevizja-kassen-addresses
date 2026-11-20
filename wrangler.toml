@@ -68,6 +68,7 @@ FRONTEND_ORIGINS = "https://app.fevizja.com"
 [[env.production.services]]
 binding = "KASSEN_API"
 service = "fevizja-kassen-api"
+entrypoint = "default"
 
 [[env.production.kv_namespaces]]
 binding = "ADDRESS_KV"
@@ -113,3 +114,9 @@ namespace_id = "25052"
 [env.production.ratelimits.simple]
 limit = 30
 period = 60
+
+[env.production.observability]
+enabled = true
+
+[env.production.observability.logs]
+enabled = true
